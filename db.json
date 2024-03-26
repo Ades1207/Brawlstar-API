@@ -1,0 +1,3262 @@
+{
+    "brawler": [
+        {
+            "id": "16000013",
+            "name": "Mec",
+            "masterTitle": "",
+            "imageURL": "",
+            "rarity": "",
+            "class": "",
+            "description": "",
+            "speed": "",
+            "speedHypercharge": "",
+            "voiceActor": "",
+            "attackName": "",
+            "attackDescription": "",
+            "superName": "",
+            "superDescription": "",
+            "health": [
+                {
+                    "healthLevel1": "",
+                    "healthLevel2": "",
+                    "healthLevel3": "",
+                    "healthLevel4": "",
+                    "healthLevel5": "",
+                    "healthLevel6": "",
+                    "healthLevel7": "",
+                    "healthLevel8": "",
+                    "healthLevel9": "",
+                    "healthLevel10": "",
+                    "healthLevel11": ""
+                }
+            ],
+            "attack": [
+                {
+                    "range": "",
+                    "reload": "",
+                    "projectilesPerAttack": "",
+                    "superChargePerHit": "",
+                    "attackSpread": "",
+                    "projectileSpeed": "",
+                    "attackLevel1": "",
+                    "attackLevel2": "",
+                    "attackLevel3": "",
+                    "attackLevel4": "",
+                    "attackLevel5": "",
+                    "attackLevel6": "",
+                    "attackLevel7": "",
+                    "attackLevel8": "",
+                    "attackLevel9": "",
+                    "attackLevel10": "",
+                    "attackLevel11": ""
+                }
+            ],
+            "super": [
+                {
+                    "range": "",
+                    "projectilesPerSuper": "",
+                    "superChargePerHit": "",
+                    "superSpread": "",
+                    "projectileSpeed": "",
+                    "superLevel1": "",
+                    "superLevel2": "",
+                    "superLevel3": "",
+                    "superLevel4": "",
+                    "superLevel5": "",
+                    "superLevel6": "",
+                    "superLevel7": "",
+                    "superLevel8": "",
+                    "superLevel9": "",
+                    "superLevel10": "",
+                    "superLevel11": ""
+                }
+            ],
+            "hypercharge": [
+                {
+                    "hyperchargeName": "",
+                    "hyperchargeDescription": "",
+                    "hyperchargeMultiplier": "",
+                    "speed": "",
+                    "damage": "",
+                    "shield": ""
+                }
+            ],
+            "gadgets": [
+                {
+                    "gadget1Name": "",
+                    "gadget1Description": "",
+                    "gadget1URL": "",
+                    "gadget2Name": "",
+                    "gadget2Description": "",
+                    "gadget2URL": ""
+                }
+            ],
+            "starPowers": [
+                {
+                    "starPowers1Name": "",
+                    "starPowers1Description": "",
+                    "starPowers1URL": "",
+                    "starPowers2Name": "",
+                    "starPowers2Description": "",
+                    "starPowers2URL": ""
+                }
+            ],
+            "skins": [
+                {
+                    "skinDefault": [
+                        {
+                            "skinDefaultURL": "",
+                            "pinsDefault": [
+                                "",
+                                ""
+                            ]
+                        }
+                    ],
+                    "skin1": [
+                        {
+                            "skinName": "",
+                            "skinCampaign": "",
+                            "skinURL": "",
+                            "pins": ""
+                        }
+                    ],
+                    "skin2": [
+                        {
+                            "skinName": "",
+                            "skinCampaign": "",
+                            "skinURL": "",
+                            "pins": ""
+                        }
+                    ],
+                    "skin3": [
+                        {
+                            "skinName": "",
+                            "skinCampaign": "",
+                            "skinURL": "",
+                            "pins": ""
+                        }
+                    ],
+                    "skin4": [
+                        {
+                            "skinName": "",
+                            "skinCampaign": "",
+                            "skinURL": "",
+                            "pins": ""
+                        }
+                    ],
+                    "skin5": [
+                        {
+                            "skinName": "",
+                            "skinCampaign": "",
+                            "skinURL": "",
+                            "pins": ""
+                        }
+                    ],
+                    "skin6": [
+                        {
+                            "skinName": "",
+                            "skinCampaign": "",
+                            "skinURL": "",
+                            "pins": ""
+                        }
+                    ],
+                    "skin7": [
+                        {
+                            "skinName": "",
+                            "skinCampaign": "",
+                            "skinURL": "",
+                            "pins": ""
+                        }
+                    ],
+                    "skin8": [
+                        {
+                            "skinName": "",
+                            "skinCampaign": "",
+                            "skinURL": "",
+                            "pins": ""
+                        }
+                    ],
+                    "skin9": [
+                        {
+                            "skinName": "",
+                            "skinCampaign": "",
+                            "skinURL": "",
+                            "pins": ""
+                        }
+                    ],
+                    "skin10": [
+                        {
+                            "skinName": "",
+                            "skinCampaign": "",
+                            "skinURL": "",
+                            "pins": ""
+                        }
+                    ],
+                    "skin11": [
+                        {
+                            "skinName": "",
+                            "skinCampaign": "",
+                            "skinURL": "",
+                            "pins": ""
+                        }
+                    ],
+                    "skin12": [
+                        {
+                            "skinName": "",
+                            "skinCampaign": "",
+                            "skinURL": "",
+                            "pins": ""
+                        }
+                    ],
+                    "skin13": [
+                        {
+                            "skinName": "",
+                            "skinCampaign": "",
+                            "skinURL": "",
+                            "pins": ""
+                        }
+                    ],
+                    "skin14": [
+                        {
+                            "skinName": "",
+                            "skinCampaign": "",
+                            "skinURL": "",
+                            "pins": ""
+                        }
+                    ],
+                    "skin15": [
+                        {
+                            "skinName": "",
+                            "skinCampaign": "",
+                            "skinURL": "",
+                            "pins": ""
+                        }
+                    ]
+                }
+            ],
+            "sprays": [
+                {
+                    "sprays1": "",
+                    "sprays2": "",
+                    "sprays3": ""
+                }
+            ],
+            "profileIcons": [
+                {
+                    "profileIcon1": "",
+                    "profileIcon2": "",
+                    "profileIcon3": "",
+                    "profileIcon4": "",
+                    "profileIcon5": ""
+                }
+            ]
+        },
+        {
+            "id": "16000012",
+            "name": "Crow",
+            "masterTitle": "Caw caw!",
+            "imageURL": "https://vignette.wikia.nocookie.net/brawlstars/images/4/48/Crow1-pfp.png/revision/latest?cb=20220429014753",
+            "rarity": "Legendary",
+            "class": "Assassin",
+            "description": "Crow trusts no one and keeps to himself. The most anyone knows about him is that he's often found at the diner, hanging out with Bull and Bibi.",
+            "speed": "",
+            "speedHypercharge": "",
+            "voiceActor": "",
+            "attackName": "",
+            "attackDescription": "",
+            "superName": "",
+            "superDescription": "",
+            "health": [
+                {
+                    "healthLevel1": "",
+                    "healthLevel2": "",
+                    "healthLevel3": "",
+                    "healthLevel4": "",
+                    "healthLevel5": "",
+                    "healthLevel6": "",
+                    "healthLevel7": "",
+                    "healthLevel8": "",
+                    "healthLevel9": "",
+                    "healthLevel10": "",
+                    "healthLevel11": ""
+                }
+            ],
+            "attack": [
+                {
+                    "range": "",
+                    "reload": "",
+                    "projectilesPerAttack": "",
+                    "superChargePerHit": "",
+                    "attackSpread": "",
+                    "projectileSpeed": "",
+                    "attackLevel1": "",
+                    "attackLevel2": "",
+                    "attackLevel3": "",
+                    "attackLevel4": "",
+                    "attackLevel5": "",
+                    "attackLevel6": "",
+                    "attackLevel7": "",
+                    "attackLevel8": "",
+                    "attackLevel9": "",
+                    "attackLevel10": "",
+                    "attackLevel11": ""
+                }
+            ],
+            "super": [
+                {
+                    "range": "",
+                    "projectilesPerSuper": "",
+                    "superChargePerHit": "",
+                    "superSpread": "",
+                    "projectileSpeed": "",
+                    "superLevel1": "",
+                    "superLevel2": "",
+                    "superLevel3": "",
+                    "superLevel4": "",
+                    "superLevel5": "",
+                    "superLevel6": "",
+                    "superLevel7": "",
+                    "superLevel8": "",
+                    "superLevel9": "",
+                    "superLevel10": "",
+                    "superLevel11": ""
+                }
+            ],
+            "hypercharge": [
+                {
+                    "hyperchargeName": "",
+                    "hyperchargeDescription": "",
+                    "hyperchargeMultiplier": "",
+                    "speed": "",
+                    "damage": "",
+                    "shield": ""
+                }
+            ],
+            "gadgets": [
+                {
+                    "gadget1Name": "",
+                    "gadget1Description": "",
+                    "gadget1URL": "https://cdn-fankit.brawlify.com/crow_gadget_01.png",
+                    "gadget2Name": "",
+                    "gadget2Description": "",
+                    "gadget2URL": "https://cdn-fankit.brawlify.com/crow_gadget_02.png"
+                }
+            ],
+            "starPowers": [
+                {
+                    "starPowers1Name": "",
+                    "starPowers1Description": "",
+                    "starPowers1URL": "https://cdn-fankit.brawlify.com/crow_starpower_01.png",
+                    "starPowers2Name": "",
+                    "starPowers2Description": "",
+                    "starPowers2URL": "https://cdn-fankit.brawlify.com/crow_starpower_02.png"
+                }
+            ],
+            "skins": [
+                {
+                    "skinDefault": [
+                        {
+                            "skinDefaultURL": "",
+                            "pinsDefault": [
+                                "",
+                                ""
+                            ]
+                        }
+                    ],
+                    "skin1": [
+                        {
+                            "skinName": "",
+                            "skinCampaign": "",
+                            "skinURL": "",
+                            "pins": ""
+                        }
+                    ],
+                    "skin2": [
+                        {
+                            "skinName": "",
+                            "skinCampaign": "",
+                            "skinURL": "",
+                            "pins": ""
+                        }
+                    ],
+                    "skin3": [
+                        {
+                            "skinName": "",
+                            "skinCampaign": "",
+                            "skinURL": "",
+                            "pins": ""
+                        }
+                    ],
+                    "skin4": [
+                        {
+                            "skinName": "",
+                            "skinCampaign": "",
+                            "skinURL": "",
+                            "pins": ""
+                        }
+                    ],
+                    "skin5": [
+                        {
+                            "skinName": "",
+                            "skinCampaign": "",
+                            "skinURL": "",
+                            "pins": ""
+                        }
+                    ],
+                    "skin6": [
+                        {
+                            "skinName": "",
+                            "skinCampaign": "",
+                            "skinURL": "",
+                            "pins": ""
+                        }
+                    ],
+                    "skin7": [
+                        {
+                            "skinName": "",
+                            "skinCampaign": "",
+                            "skinURL": "",
+                            "pins": ""
+                        }
+                    ],
+                    "skin8": [
+                        {
+                            "skinName": "",
+                            "skinCampaign": "",
+                            "skinURL": "",
+                            "pins": ""
+                        }
+                    ],
+                    "skin9": [
+                        {
+                            "skinName": "",
+                            "skinCampaign": "",
+                            "skinURL": "",
+                            "pins": ""
+                        }
+                    ],
+                    "skin10": [
+                        {
+                            "skinName": "",
+                            "skinCampaign": "",
+                            "skinURL": "",
+                            "pins": ""
+                        }
+                    ],
+                    "skin11": [
+                        {
+                            "skinName": "",
+                            "skinCampaign": "",
+                            "skinURL": "",
+                            "pins": ""
+                        }
+                    ],
+                    "skin12": [
+                        {
+                            "skinName": "",
+                            "skinCampaign": "",
+                            "skinURL": "",
+                            "pins": ""
+                        }
+                    ],
+                    "skin13": [
+                        {
+                            "skinName": "",
+                            "skinCampaign": "",
+                            "skinURL": "",
+                            "pins": ""
+                        }
+                    ],
+                    "skin14": [
+                        {
+                            "skinName": "",
+                            "skinCampaign": "",
+                            "skinURL": "",
+                            "pins": ""
+                        }
+                    ],
+                    "skin15": [
+                        {
+                            "skinName": "",
+                            "skinCampaign": "",
+                            "skinURL": "",
+                            "pins": ""
+                        }
+                    ]
+                }
+            ],
+            "sprays": [
+                {
+                    "sprays1": "https://vignette.wikia.nocookie.net/brawlstars/images/9/9f/Crow-Spray.png/revision/latest?cb=20221217131459",
+                    "sprays2": "https://vignette.wikia.nocookie.net/brawlstars/images/b/be/Crow_Hypercharge-Spray.png/revision/latest?cb=20231212184338",
+                    "sprays3": "https://vignette.wikia.nocookie.net/brawlstars/images/3/3d/Phoenix_Crow-Spray.png/revision/latest?cb=20230626220710",
+                    "sprays4": "https://vignette.wikia.nocookie.net/brawlstars/images/9/9f/Mecha_Crow-Spray.png/revision/latest?cb=20240226115556"
+                }
+            ],
+            "profileIcons": [
+                {
+                    "profileIcon1": "https://vignette.wikia.nocookie.net/brawlstars/images/4/48/Crow1-pfp.png/revision/latest?cb=20220429014753",
+                    "profileIcon2": "https://vignette.wikia.nocookie.net/brawlstars/images/1/13/Crow2-pfp.png/revision/latest?cb=20230301194427",
+                    "profileIcon3": "https://vignette.wikia.nocookie.net/brawlstars/images/e/e2/Crow_Hypercharge-pfp.png/revision/latest?cb=20231212181444",
+                    "profileIcon4": "https://vignette.wikia.nocookie.net/brawlstars/images/3/34/Phoenix_Crow-pfp.png/revision/latest?cb=20230627184339",
+                    "profileIcon5": "https://vignette.wikia.nocookie.net/brawlstars/images/3/33/Mecha_Crow-pfp.png/revision/latest?cb=20240228101841"
+                }
+            ]
+        },
+        {
+            "id": "16000011",
+            "name": "Mortis",
+            "masterTitle": "Creature of the Night",
+            "imageURL": "https://vignette.wikia.nocookie.net/brawlstars/images/1/14/Mortis1-pfp.png/revision/latest?cb=20220429014229",
+            "rarity": "Mythic",
+            "class": "Assassin",
+            "description": "Mortis had grand designs built around being a mortician and a vampire, but the fact that nobody is dying at Starr Park has put a huge damper on his plans.",
+            "speed": "820",
+            "voiceActor": "Ed Mace",
+            "attackName": "Shovel Swing",
+            "attackDescription": "Mortis dashes forward with a sharp swing of his shovel, creating business opportunities for himself. When he has all three dashes ready, he'll gain a longer dash after a short delay.",
+            "superName": "Life Blood",
+            "superDescription": "Mortis calls forth a swarm of vampire bats that drain the health of his enemies while restoring his. Creepy!",
+            "health": [
+                {
+                    "healthLevel1": "3800",
+                    "healthLevel2": "4180",
+                    "healthLevel3": "4560",
+                    "healthLevel4": "4940",
+                    "healthLevel5": "5320",
+                    "healthLevel6": "5700",
+                    "healthLevel7": "6080",
+                    "healthLevel8": "6460",
+                    "healthLevel9": "6840",
+                    "healthLevel10": "7220",
+                    "healthLevel11": "7600"
+                }
+            ],
+            "attack": [
+                {
+                    "range": 2.67,
+                    "reload": "2.4 seconds",
+                    "superChargePerHit": "20.025%",
+                    "attackLevel1": "940",
+                    "attackLevel2": "1034",
+                    "attackLevel3": "1128",
+                    "attackLevel4": "1222",
+                    "attackLevel5": "1316",
+                    "attackLevel6": "1410",
+                    "attackLevel7": "1504",
+                    "attackLevel8": "1598",
+                    "attackLevel9": "1692",
+                    "attackLevel10": "1786",
+                    "attackLevel11": "1880"
+                }
+            ],
+            "super": [
+                {
+                    "range": 10,
+                    "superChargePerHit": "30.15%",
+                    "superWidth": 2.67,
+                    "projectileSpeed": 2718,
+                    "superLevel1": "900",
+                    "superLevel2": "990",
+                    "superLevel3": "1080",
+                    "superLevel4": "1170",
+                    "superLevel5": "1260",
+                    "superLevel6": "1350",
+                    "superLevel7": "1440",
+                    "superLevel8": "1530",
+                    "superLevel9": "1620",
+                    "superLevel10": "1710",
+                    "superLevel11": "1800",
+                    "superHealLevel1": "1125",
+                    "superHealLevel2": "1237",
+                    "superHealLevel3": "1349",
+                    "superHealLevel4": "1461",
+                    "superHealLevel5": "1573",
+                    "superHealLevel6": "1685",
+                    "superHealLevel7": "1797",
+                    "superHealLevel8": "1909",
+                    "superHealLevel9": "2021",
+                    "superHealLevel10": "2133",
+                    "superHealLevel11": "2245"
+                }
+            ],
+            "gadgets": [
+                {
+                    "gadget1Name": "Combo Spinner",
+                    "gadget1Description": "Mortis spins his shovel, hitting all enemies around himself for 1880 damage.",
+                    "gadget1URL": "https://cdn-fankit.brawlify.com/mortis_gadget_01.png",
+                    "gadget2Name": "Survival Shovel",
+                    "gadget2Description": "Mortis reloads faster for 4.0 seconds.",
+                    "gadget2URL": "https://cdn-fankit.brawlify.com/mortis_gadget_02.png"
+                }
+            ],
+            "starPowers": [
+                {
+                    "starPowers1Name": "Creepy Harvest",
+                    "starPowers1Description": "Mortis reaps the life essence of a Brawler he defeats, restoring 20% of his max health.",
+                    "starPowers1URL": "https://cdn-fankit.brawlify.com/mortis_starpower_01.png",
+                    "starPowers2Name": "Coiled Snake",
+                    "starPowers2Description": "Mortis gains his longer dash 2 seconds faster.",
+                    "starPowers2URL": "https://cdn-fankit.brawlify.com/mortis_starpower_02.png"
+                }
+            ],
+            "skins": [
+                {
+                    "skinDefault": [
+                        {
+                            "skinDefaultURL": "https://vignette.wikia.nocookie.net/brawlstars/images/b/b2/Mortis_Skin-Default.png/revision/latest?cb=20200520104613",
+                            "pinsDefault": [
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/0/02/Mortis_Pin-Neutral.png/revision/latest?cb=20200917164343",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/2/25/Mortis_Pin-Happy.png/revision/latest?cb=20210921002449",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/c/c4/Mortis_Pin-Sad.png/revision/latest?cb=20210921002550",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/4/47/Mortis_Pin-Angry.png/revision/latest?cb=20210921002618",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/5/50/Mortis_Pin-GG.png/revision/latest?cb=20210921002631",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/c/cb/Mortis_Pin-Clap.png/revision/latest?cb=20210621181655",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/a/ad/Mortis_Pin-Thanks.png/revision/latest?cb=20210921002650",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/5/55/Mortis_Pin-Phew.png/revision/latest?cb=20210921002702",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/5/56/Mortis_Pin-Special.png/revision/latest?cb=20221028070537",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/4/46/Mortis_Pin-Facepalm.png/revision/latest?cb=20230304133110"
+                            ]
+                        }
+                    ],
+                    "skin1": [
+                        {
+                            "skinName": "Top Hat Mortis",
+                            "skinCampaign": "None",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/f/f4/Mortis_Skin-Top_Hat.png/revision/latest/scale-to-width-down/1000?cb=20230515183826"
+                        }
+                    ],
+                    "skin2": [
+                        {
+                            "skinName": "Mecha Mortis",
+                            "skinCampaign": "Mecha Squad",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/9/95/Mortis_Skin-Mecha.png/revision/latest?cb=20220918192606",
+                            "pins": [
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/4/4d/Mortis_Mecha_Pin-Neutral.png/revision/latest?cb=20230902142217",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/d/dc/Mortis_Mecha_Pin-Happy.png/revision/latest?cb=20230902142226",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/6/60/Mortis_Mecha_Pin-Sad.png/revision/latest?cb=20230902142239",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/c/c9/Mortis_Mecha_Pin-Angry.png/revision/latest?cb=20230902142252",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/4/41/Mortis_Mecha_Pin-GG.png/revision/latest?cb=20230902142316",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/5/50/Mortis_Mecha_Pin-Clap.png/revision/latest?cb=20230902142342",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/b/bf/Mortis_Mecha_Pin-Thanks.png/revision/latest?cb=20230902142350",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/c/c2/Mortis_Mecha_Pin-Phew.png/revision/latest?cb=20230902142357",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/3/35/Mortis_Mecha_Pin-Special.png/revision/latest?cb=20230902142405"
+                            ]
+                        }
+                    ],
+                    "skin3": [
+                        {
+                            "skinName": "Light Mecha Mortis",
+                            "skinCampaign": "Mecha Squad",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/1/1e/Mortis_Skin-Light_Mecha.png/revision/latest?cb=20230210214424",
+                            "pins": "https://vignette.wikia.nocookie.net/brawlstars/images/0/05/Mortis_Light_Mecha_Pin-Neutral.png/revision/latest?cb=20231029005729"
+                        }
+                    ],
+                    "skin4": [
+                        {
+                            "skinName": "Dark Mecha Mortis",
+                            "skinCampaign": "Mecha Squad",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/0/08/Mortis_Skin-Dark_Mecha.png/revision/latest?cb=20230210214546",
+                            "pins": "https://vignette.wikia.nocookie.net/brawlstars/images/3/3f/Mortis_Dark_Mecha_Pin-Neutral.png/revision/latest?cb=20231029005754"
+                        }
+                    ],
+                    "skin5": [
+                        {
+                            "skinName": "Beach Time Mortis",
+                            "skinCampaign": "Super City Summers",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/4/46/Mortis_Skin-Beach_Time.png/revision/latest?cb=20230217035946"
+                        }
+                    ],
+                    "skin6": [
+                        {
+                            "skinName": "Rockabilly Mortis",
+                            "skinCampaign": "Retropolis Nights",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/0/09/Mortis_Skin-Rockabilly.png/revision/latest?cb=20210310133351",
+                            "pins": "https://vignette.wikia.nocookie.net/brawlstars/images/7/7d/Mortis_Rockabilly_Pin-Neutral.png/revision/latest?cb=20211005032329"
+                        }
+                    ],
+                    "skin7": [
+                        {
+                            "skinName": "Night Witch Mortis",
+                            "skinCampaign": "Clash Stories",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/d/d6/Mortis_Skin-Night_Witch.png/revision/latest/scale-to-width-down/1000?cb=20201128225640"
+                        }
+                    ],
+                    "skin8": [
+                        {
+                            "skinName": "Rogue Mortis",
+                            "skinCampaign": "Sands of Time",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/c/c8/Mortis_Skin-Rogue.png/revision/latest?cb=20221007183136"
+                        }
+                    ],
+                    "skin9": [
+                        {
+                            "skinName": "Hockey Mortis",
+                            "skinCampaign": "BSC",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/3/3e/Mortis_Skin-Hockey.png/revision/latest/scale-to-width-down/1000?cb=20231030180742",
+                            "pins": "https://vignette.wikia.nocookie.net/brawlstars/images/f/f5/Mortis_Hockey_Pin-Special.png/revision/latest?cb=20231023132728"
+                        }
+                    ],
+                    "skin10": [
+                        {
+                            "skinName": "True Silver Mortis",
+                            "skinCampaign": "True Silver",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/e/e3/Mortis_Skin-True_Silver.png/revision/latest/scale-to-width-down/1000?cb=20201028110037"
+                        }
+                    ],
+                    "skin11": [
+                        {
+                            "skinName": "True Silver Top Hat Mortis",
+                            "skinCampaign": "True Silver",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/7/7a/Mortis_Skin-True_Silver_%28Hat%29.png/revision/latest/scale-to-width-down/1000?cb=20201028110041"
+                        }
+                    ],
+                    "skin12": [
+                        {
+                            "skinName": "True Gold Mortis",
+                            "skinCampaign": "True Gold",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/d/d6/Mortis_Skin-True_Gold.png/revision/latest/scale-to-width-down/1000?cb=20201020162946"
+                        }
+                    ],
+                    "skin13": [
+                        {
+                            "skinName": "True Gold Top Hat Mortis",
+                            "skinCampaign": "True Gold",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/5/58/Mortis_Skin-True_Gold_%28Hat%29.png/revision/latest/scale-to-width-down/1000?cb=20201028110046"
+                        }
+                    ]
+                }
+            ],
+            "sprays": [
+                {
+                    "sprays1": "https://vignette.wikia.nocookie.net/brawlstars/images/9/90/Mortis-Spray.png/revision/latest?cb=20230812113919",
+                    "sprays2": "https://vignette.wikia.nocookie.net/brawlstars/images/6/65/Mecha_Mortis-Spray.png/revision/latest?cb=20220903144124"
+                }
+            ],
+            "profileIcons": [
+                {
+                    "profileIcon1": "https://vignette.wikia.nocookie.net/brawlstars/images/1/14/Mortis1-pfp.png/revision/latest?cb=20220429014229",
+                    "profileIcon2": "https://vignette.wikia.nocookie.net/brawlstars/images/5/56/Mortis2-pfp.png/revision/latest?cb=20230301192252",
+                    "profileIcon3": "https://vignette.wikia.nocookie.net/brawlstars/images/5/5a/Mecha_Mortis-pfp.png/revision/latest?cb=20230126120837",
+                    "profileIcon4": "https://vignette.wikia.nocookie.net/brawlstars/images/9/99/Rockabilly_Mortis-pfp.png/revision/latest?cb=20231025133233",
+                    "profileIcon5": "https://vignette.wikia.nocookie.net/brawlstars/images/9/95/Hockey_Mortis-pfp.png/revision/latest?cb=20231025133025"
+                }
+            ]
+        },
+        {
+            "id": "16000010",
+            "name": "El Primo",
+            "masterTitle": "El Luchador",
+            "imageURL": "https://vignette.wikia.nocookie.net/brawlstars/images/2/23/El_Primo1-pfp.png/revision/latest?cb=20220429011308",
+            "rarity": "Rare",
+            "class": "Tank",
+            "description": "El Primo is always in the spotlight and that's right where he wants to be! There's no audience he can't win over, except maybe his fellow performers...",
+            "speed": 770,
+            "speedHypercharge": 963,
+            "voiceActor": "Alejandro \"Alex\" Sanchez",
+            "attackName": "Fists of Fury",
+            "attackDescription": "El Primo fires off a furious flurry of four fiery fists. That's a spicy jalapeno knuckle sandwich!",
+            "superName": "Flying Elbow Drop",
+            "superDescription": "Leaping high, El Primo drops an Intergalactic Elbow that knocks around enemies and destroys cover!",
+            "health": [
+                {
+                    "healthLevel1": "6000",
+                    "healthLevel2": "6600",
+                    "healthLevel3": "7200",
+                    "healthLevel4": "7800",
+                    "healthLevel5": "8400",
+                    "healthLevel6": "9000",
+                    "healthLevel7": "9600",
+                    "healthLevel8": "10200",
+                    "healthLevel9": "10800",
+                    "healthLevel10": "11400",
+                    "healthLevel11": "12000"
+                }
+            ],
+            "attack": [
+                {
+                    "range": 3,
+                    "reload": "0.8 seconds",
+                    "projectilesPerAttack": 4,
+                    "superChargePerHit": "8.46%",
+                    "attackWidth": 1,
+                    "projectileSpeed": 3261,
+                    "attackLevel1": "380",
+                    "attackLevel2": "418",
+                    "attackLevel3": "456",
+                    "attackLevel4": "494",
+                    "attackLevel5": "532",
+                    "attackLevel6": "570",
+                    "attackLevel7": "608",
+                    "attackLevel8": "646",
+                    "attackLevel9": "684",
+                    "attackLevel10": "722",
+                    "attackLevel11": "760"
+                }
+            ],
+            "super": [
+                {
+                    "range": 9,
+                    "superChargePerHit": "30%",
+                    "superLevel1": "960",
+                    "superLevel2": "1056",
+                    "superLevel3": "1152",
+                    "superLevel4": "1248",
+                    "superLevel5": "1344",
+                    "superLevel6": "1440",
+                    "superLevel7": "1536",
+                    "superLevel8": "1632",
+                    "superLevel9": "1728",
+                    "superLevel10": "1824",
+                    "superLevel11": "1920"
+                }
+            ],
+            "hypercharge": [
+                {
+                    "hyperchargeName": "Gravity Leap",
+                    "hyperchargeDescription": "El Primo drops an Intergalactic Elbow that brings enemies to the Epicenter.",
+                    "hyperchargeMultiplier": "None",
+                    "speed": "+25%",
+                    "damage": "+5%",
+                    "shield": "+25%"
+                }
+            ],
+            "gadgets": [
+                {
+                    "gadget1Name": "Suplex Supplement",
+                    "gadget1Description": "El Primo grabs the closest enemy within his reach and flips them like a pancake over his broad shoulders.",
+                    "gadget1URL": "https://cdn-fankit.brawlify.com/elprimo_gadget_01.png",
+                    "gadget2Name": "Asteroid Belt",
+                    "gadget2Description": "El Primo summons a small meteor to strike the nearest enemy. It deals 2880 damage and destroys walls.",
+                    "gadget2URL": "https://cdn-fankit.brawlify.com/elprimo_gadget_02.png"
+                }
+            ],
+            "starPowers": [
+                {
+                    "starPowers1Name": "El Fuego",
+                    "starPowers1Description": "Enemies caught in El Primo's Super will burn for 1786 damage over 4 seconds.",
+                    "starPowers1URL": "https://cdn-fankit.brawlify.com/elprimo_starpower_01.png",
+                    "starPowers2Name": "Meteor Rush",
+                    "starPowers2Description": "El Primo gains a 25% speed boost for 4.0 seconds after using his Super.",
+                    "starPowers2URL": "https://cdn-fankit.brawlify.com/elprimo_starpower_02.png"
+                }
+            ],
+            "skins": [
+                {
+                    "skinDefault": [
+                        {
+                            "skinDefaultURL": "",
+                            "pinsDefault": [
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/8/8a/El_Primo_Pin-Neutral.png/revision/latest?cb=20200917165008",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/c/ce/El_Primo_Pin-Happy.png/revision/latest?cb=20210915013756",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/0/0d/El_Primo_Pin-Sad.png/revision/latest?cb=20210915013836",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/d/d6/El_Primo_Pin-Angry.png/revision/latest?cb=20210915013908",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/d/d8/El_Primo_Pin-GG.png/revision/latest?cb=20210915023718",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/9/9d/El_Primo_Pin-Clap.png/revision/latest?cb=20210621182645",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/c/c2/El_Primo_Pin-Thanks.png/revision/latest?cb=20230625094853",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/b/be/El_Primo_Pin-Phew.png/revision/latest?cb=20210915024550",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/6/6e/El_Primo_Pin-Special.png/revision/latest?cb=20220629084512",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/1/19/El_Primo_Pin-Facepalm.png/revision/latest?cb=20230304131606",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/4/4e/El_Primo_Pin-Hypercharge.png/revision/latest?cb=20240226115554"
+                            ]
+                        }
+                    ],
+                    "skin1": [
+                        {
+                            "skinName": "El Primo Universitario",
+                            "skinCampaign": "Latin America Master League",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/c/c9/El_Primo_Skin-El_Primo_Universitario.png/revision/latest/scale-to-width-down/1000?cb=20210813114738"
+                        }
+                    ],
+                    "skin2": [
+                        {
+                            "skinName": "El Primo Club",
+                            "skinCampaign": "Latin America Master League",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/a/af/El_Primo_Skin-El_Primo_Club_Nacional.png/revision/latest/scale-to-width-down/1000?cb=20210813114917"
+                        }
+                    ],
+                    "skin3": [
+                        {
+                            "skinName": "El Primo Corinthians",
+                            "skinCampaign": "Latin America Master League",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/0/0f/El_Primo_Skin-El_Primo_Corinthians.png/revision/latest/scale-to-width-down/1000?cb=20210813115059"
+                        }
+                    ],
+                    "skin4": [
+                        {
+                            "skinName": "El Quarterback",
+                            "skinCampaign": "Super Brawl",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/5/5c/El_Primo_Skin-El_Quarterback.png/revision/latest/scale-to-width-down/1000?cb=20231213205340",
+                            "pins": "https://vignette.wikia.nocookie.net/brawlstars/images/7/76/El_Primo_El_Quarterback_Pin-Special.png/revision/latest?cb=20231212131148"
+                        }
+                    ],
+                    "skin5": [
+                        {
+                            "skinName": "El Brown",
+                            "skinCampaign": "Brown & Friends",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/f/f8/El_Primo_Skin-El_Brown.png/revision/latest?cb=20200330090515",
+                            "pins": "https://vignette.wikia.nocookie.net/brawlstars/images/0/0b/El_Primo_El_Brown_Pin-Neutral.png/revision/latest?cb=20230626220130"
+                        }
+                    ],
+                    "skin6": [
+                        {
+                            "skinName": "El Rudo Primo",
+                            "skinCampaign": "None",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/8/85/El_Primo_Skin-El_Rudo_Primo.png/revision/latest?cb=20200830052954"
+                        }
+                    ],
+                    "skin7": [
+                        {
+                            "skinName": "El Atómico",
+                            "skinCampaign": "Wasteland",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/7/75/El_Primo_Skin-El_Atómico.png/revision/latest/scale-to-width-down/1000?cb=20201109114317  "
+                        }
+                    ],
+                    "skin8": [
+                        {
+                            "skinName": "El Corazón",
+                            "skinCampaign": "My Brawlentine",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/f/f1/El_Primo_Skin-El_Corazón.png/revision/latest?cb=20230221160059",
+                            "pins": "https://vignette.wikia.nocookie.net/brawlstars/images/9/9b/El_Primo_El_Corazón_Pin-Neutral.png/revision/latest?cb=20221225145953"
+                        }
+                    ],
+                    "skin9": [
+                        {
+                            "skinName": "El Rey Primo",
+                            "skinCampaign": "None",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/e/e5/El_Primo_Skin-El_Rey_Primo.png/revision/latest?cb=20200308114907",
+                            "pins": "https://vignette.wikia.nocookie.net/brawlstars/images/c/c5/El_Primo_El_Rey_Primo_Pin-Neutral.png/revision/latest?cb=20230428124532"
+                        }
+                    ],
+                    "skin10": [
+                        {
+                            "skinName": "El Dragón Verdoso",
+                            "skinCampaign": "Once Upon",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/5/5b/El_Primo_Skin-El_Dragón_Verdoso.png/revision/latest?cb=20211119011251",
+                            "pins": "https://vignette.wikia.nocookie.net/brawlstars/images/e/e0/El_Primo_El_Dragón_Verdoso_Pin-Neutral.png/revision/latest?cb=20221225150004"
+                        }
+                    ],
+                    "skin11": [
+                        {
+                            "skinName": "El Dragón Rosado",
+                            "skinCampaign": "Once Upon",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/3/39/El_Primo_Skin-El_Dragón_Rosado.png/revision/latest?cb=20211119011343",
+                            "pins": "https://vignette.wikia.nocookie.net/brawlstars/images/0/07/El_Primo_El_Dragón_Rosado_Pin-Neutral.png/revision/latest?cb=20221225145939"
+                        }
+                    ],
+                    "skin12": [
+                        {
+                            "skinName": "El Tigro",
+                            "skinCampaign": "Lunar Brawl",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/7/79/El_Primo_Skin-El_Tigro.png/revision/latest?cb=20220222163057",
+                            "pins": "https://vignette.wikia.nocookie.net/brawlstars/images/b/b3/El_Primo_El_Tigro_Pin-Neutral.png/revision/latest?cb=20221225145907"
+                        }
+                    ],
+                    "skin13": [
+                        {
+                            "skinName": "True Silver El Primo",
+                            "skinCampaign": "True Silver",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/5/53/El_Primo_Skin-True_Silver.png/revision/latest/scale-to-width-down/1000?cb=20201109114527"
+                        }
+                    ],
+                    "skin14": [
+                        {
+                            "skinName": "True Gold El Primo",
+                            "skinCampaign": "True Gold",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/8/86/El_Primo_Skin-True_Gold.png/revision/latest/scale-to-width-down/1000?cb=20201109114706"
+                        }
+                    ],
+                    "skin15": [
+                        {
+                            "skinName": "El Mayordomo",
+                            "skinCampaign": "Brawl Pass",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/1/1d/El_Primo_Skin-El_Mayordomo.png/revision/latest?cb=20230305010809",
+                            "pins": "https://vignette.wikia.nocookie.net/brawlstars/images/3/3d/El_Primo_El_Mayordomo_Pin-Neutral.png/revision/latest?cb=20230304215423"
+                        }
+                    ]
+                }
+            ],
+            "sprays": [
+                {
+                    "sprays1": "https://vignette.wikia.nocookie.net/brawlstars/images/b/b0/El_Primo-Spray.png/revision/latest?cb=20220629091020",
+                    "sprays2": "https://vignette.wikia.nocookie.net/brawlstars/images/a/ab/El_Primo_Hypercharge-Spray.png/revision/latest?cb=20240226115554",
+                    "sprays3": "https://vignette.wikia.nocookie.net/brawlstars/images/9/91/El_Quarterback-Spray.png/revision/latest?cb=20231212185257"
+                }
+            ],
+            "profileIcons": [
+                {
+                    "profileIcon1": "https://vignette.wikia.nocookie.net/brawlstars/images/2/23/El_Primo1-pfp.png/revision/latest?cb=20220429011308",
+                    "profileIcon2": "https://vignette.wikia.nocookie.net/brawlstars/images/6/6b/El_Primo2-pfp.png/revision/latest?cb=20231213185209",
+                    "profileIcon3": "https://vignette.wikia.nocookie.net/brawlstars/images/b/b4/El_Primo_Hypercharge-pfp.png/revision/latest?cb=20240228131806",
+                    "profileIcon4": "https://vignette.wikia.nocookie.net/brawlstars/images/5/57/El_Quarterback-pfp.png/revision/latest?cb=20231212183628"
+                }
+            ]
+        },
+        {
+            "id": "16000009",
+            "name": "Dynamike",
+            "masterTitle": "Birdie, birdie, birdie!",
+            "imageURL": "https://vignette.wikia.nocookie.net/brawlstars/images/d/d9/Dynamike1-pfp.png/revision/latest?cb=20220428153421",
+            "rarity": "Super Rare",
+            "class": "Artillery",
+            "description": "Dynamike is an old miner and prospector who's become obsessed with explosions. Nothing makes him happier than a big boom!",
+            "speed": 770,
+            "speedHypercharge": 963,
+            "voiceActor": "Jas Patrick",
+            "attackName": "Short Fuse",
+            "attackDescription": "Mike tosses two sticks of dynamite, passing over any obstacles in the way. The fuses are cut as short as Mike's explosive temper!",
+            "superName": "Big Barrel o' Boom",
+            "superDescription": "A big-bada-barrel of dynamite blows up cover. Any surviving enemies get knocked back on impact!",
+            "health": [
+                {
+                    "healthLevel1": "2800",
+                    "healthLevel2": "3080",
+                    "healthLevel3": "3360",
+                    "healthLevel4": "3640",
+                    "healthLevel5": "3920",
+                    "healthLevel6": "4200",
+                    "healthLevel7": "4480",
+                    "healthLevel8": "4760",
+                    "healthLevel9": "5040",
+                    "healthLevel10": "5320",
+                    "healthLevel11": "5600"
+                }
+            ],
+            "attack": [
+                {
+                    "range": 7.33,
+                    "reload": "1.6 seconds",
+                    "projectilesPerAttack": 2,
+                    "superChargePerHit": "25%",
+                    "projectileSpeed": 1900,
+                    "attackLevel1": "800",
+                    "attackLevel2": "880",
+                    "attackLevel3": "960",
+                    "attackLevel4": "1040",
+                    "attackLevel5": "1120",
+                    "attackLevel6": "1200",
+                    "attackLevel7": "1280",
+                    "attackLevel8": "1360",
+                    "attackLevel9": "1440",
+                    "attackLevel10": "1520",
+                    "attackLevel11": "1600"
+                }
+            ],
+            "super": [
+                {
+                    "range": 7.33,
+                    "superChargePerHit": "50.05%",
+                    "projectileSpeed": "1600",
+                    "explosionRange": 2.67,
+                    "superLevel1": "2200",
+                    "superLevel2": "2420",
+                    "superLevel3": "2640",
+                    "superLevel4": "2860",
+                    "superLevel5": "3080",
+                    "superLevel6": "3300",
+                    "superLevel7": "3520",
+                    "superLevel8": "3740",
+                    "superLevel9": "3960",
+                    "superLevel10": "4180",
+                    "superLevel11": "4400"
+                }
+            ],
+            "hypercharge": [
+                {
+                    "hyperchargeName": "Boomer",
+                    "hyperchargeDescription": "Super bomb spawns smaller bombs.",
+                    "hyperchargeMultiplier": "30%",
+                    "speed": "+25%",
+                    "damage": "+25%",
+                    "shield": "+5%"
+                }
+            ],
+            "gadgets": [
+                {
+                    "gadget1Name": "Fidget Spinner",
+                    "gadget1Description": "Dynamike spins furiously with increased movement speed and throws multiple sticks of dynamite around himself. Each dynamite deals 2400 damage to enemies.",
+                    "gadget1URL": "https://cdn-fankit.brawlify.com/dynamike_gadget_01.png",
+                    "gadget2Name": "Satchel Charge",
+                    "gadget2Description": "Once activated, the next main attack also stuns enemies for 1.5 seconds.",
+                    "gadget2URL": "https://cdn-fankit.brawlify.com/dynamike_gadget_02.png"
+                }
+            ],
+            "starPowers": [
+                {
+                    "starPowers1Name": "Dyna-Jump",
+                    "starPowers1Description": "Dynamike can ride the blast wave of his explosives to jump over obstacles!",
+                    "starPowers1URL": "https://cdn-fankit.brawlify.com/dynamike_starpower_01.png",
+                    "starPowers2Name": "Demolition",
+                    "starPowers2Description": "Adds +1600 damage to Mike's Super.",
+                    "starPowers2URL": "https://cdn-fankit.brawlify.com/dynamike_starpower_02.png"
+                }
+            ],
+            "skins": [
+                {
+                    "skinDefault": [
+                        {
+                            "skinDefaultURL": "https://vignette.wikia.nocookie.net/brawlstars/images/6/6e/Dynamike_Skin-Default.png/revision/latest?cb=20201118121329",
+                            "pinsDefault": [
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/d/df/Dynamike_Pin-Neutral.png/revision/latest?cb=20210920042651",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/9/9f/Dynamike_Pin-Happy.png/revision/latest?cb=20210920042720",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/8/87/Dynamike_Pin-Sad.png/revision/latest?cb=20210920042735",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/b/bd/Dynamike_Pin-Angry.png/revision/latest?cb=20210920042747",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/1/1f/Dynamike_Pin-GG.png/revision/latest?cb=20210920042759",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/2/24/Dynamike_Pin-Clap.png/revision/latest?cb=20210621182739",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/a/ae/Dynamike_Pin-Thanks.png/revision/latest?cb=20210920042811",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/a/a0/Dynamike_Pin-Phew.png/revision/latest?cb=20210920042825",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/2/21/Dynamike_Pin-Special.png/revision/latest?cb=20220629084512",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/8/85/Dynamike_Pin-Facepalm.png/revision/latest?cb=20230304131839",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/4/45/Dynamike_Pin-Hypercharge.png/revision/latest?cb=20231211141800"
+                            ]
+                        }
+                    ],
+                    "skin1": [
+                        {
+                            "skinName": "Classic Dynamike",
+                            "skinCampaign": "Anniversary",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/7/77/Dynamike_Skin-Classic.png/revision/latest/scale-to-width-down/1000?cb=20220520040934"
+                        }
+                    ],
+                    "skin2": [
+                        {
+                            "skinName": "Flamengo Mike",
+                            "skinCampaign": "Latin America Master League",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/3/35/Dynamike_Skin-Flamengo_Mike.png/revision/latest?cb=20230202213355"
+                        }
+                    ],
+                    "skin3": [
+                        {
+                            "skinName": "LDU Quito Mike",
+                            "skinCampaign": "Latin America Master League",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/8/81/Dynamike_Skin-LDU_Quito_Mike.png/revision/latest?cb=20230202213433"
+                        }
+                    ],
+                    "skin4": [
+                        {
+                            "skinName": "Chivas Mike",
+                            "skinCampaign": "Latin America Master League",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/1/14/Dynamike_Skin-Chivas_Mike.png/revision/latest?cb=20230202213512"
+                        }
+                    ],
+                    "skin5": [
+                        {
+                            "skinName": "Coach Mike",
+                            "skinCampaign": "Golden Brawl Ball",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/7/73/Dynamike_Skin-Coach_Mike.png/revision/latest?cb=20200714083406"
+                        }
+                    ],
+                    "skin6": [
+                        {
+                            "skinName": "PSG Mike",
+                            "skinCampaign": "PSG",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/d/d3/Dynamike_Skin-PSG_Mike.png/revision/latest/scale-to-width-down/1000?cb=20220509154523    "
+                        }
+                    ],
+                    "skin7": [
+                        {
+                            "skinName": "Santa Mike",
+                            "skinCampaign": "Brawlidays",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/2/26/Dynamike_Skin-Santa_Mike.png/revision/latest?cb=20200714083059",
+                            "pins": "https://vignette.wikia.nocookie.net/brawlstars/images/5/59/Dynamike_Santa_Mike_Pin-GG.png/revision/latest?cb=20211217135038"
+                        }
+                    ],
+                    "skin8": [
+                        {
+                            "skinName": "Spicy Mike",
+                            "skinCampaign": "Starry Meal",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/b/ba/Dynamike_Skin-Spicy_Mike.png/revision/latest?cb=20200714083151",
+                            "pins": "https://vignette.wikia.nocookie.net/brawlstars/images/1/10/Dynamike_Spicy_Mike_Pin-Special.png/revision/latest?cb=20231213152205"
+                        }
+                    ],
+                    "skin9": [
+                        {
+                            "skinName": "Tengu Mike",
+                            "skinCampaign": "The Ayakashi Clan",
+                            "skinURL": "https://static.wikia.nocookie.net/brawlstars/images/a/a3/Dynamike_Skin-Tengu_Mike.png/revision/latest/scale-to-width-down/1000?cb=20230302044548",
+                            "pins": "https://vignette.wikia.nocookie.net/brawlstars/images/b/b2/Dynamike_Tengu_Mike_Pin-Neutral.png/revision/latest?cb=20230304214457"
+                        }
+                    ],
+                    "skin10": [
+                        {
+                            "skinName": "Dynasty Mike",
+                            "skinCampaign": "Ranked",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/4/40/Dynamike_Skin-Dynasty_Mike.png/revision/latest?cb=20240306105620",
+                            "pins": "https://vignette.wikia.nocookie.net/brawlstars/images/d/dd/Dynamike_Dynasty_Mike_Pin-Special.png/revision/latest?cb=20240226115555"
+                        }
+                    ],
+                    "skin11": [
+                        {
+                            "skinName": "Moldy Mike",
+                            "skinCampaign": "Club Series",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/9/97/Dynamike_Skin-Moldy_Mike.png/revision/latest?cb=20220517042149"
+                        }
+                    ],
+                    "skin12": [
+                        {
+                            "skinName": "Robo Mike",
+                            "skinCampaign": "Robots & Monsters",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/9/98/Dynamike_Skin-Robo_Mike.png/revision/latest/scale-to-width-down/1000?cb=20200714083252",
+                            "pins": [
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/9/98/Dynamike_Robo_Mike_Pin-Neutral.png/revision/latest?cb=20230428124629",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/a/a1/Dynamike_Robo_Mike_Pin-Happy.png/revision/latest?cb=20231023132727",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/0/06/Dynamike_Robo_Mike_Pin-Sad.png/revision/latest?cb=20231023132727",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/1/14/Dynamike_Robo_Mike_Pin-Angry.png/revision/latest?cb=20231023132726",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/c/c6/Dynamike_Robo_Mike_Pin-GG.png/revision/latest?cb=20231023132727",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/6/69/Dynamike_Robo_Mike_Pin-Clap.png/revision/latest?cb=20231023132727",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/4/4a/Dynamike_Robo_Mike_Pin-Thanks.png/revision/latest?cb=20231023132727",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/e/e4/Dynamike_Robo_Mike_Pin-Phew.png/revision/latest?cb=20231023132727",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/a/a0/Dynamike_Robo_Mike_Pin-Special.png/revision/latest?cb=20231023132727"
+                            ]
+                        }
+                    ],
+                    "skin13": [
+                        {
+                            "skinName": "True Silver Dynamike",
+                            "skinCampaign": "True Silver",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/5/5c/Dynamike_Skin-True_Silver.png/revision/latest?cb=20211130044527"
+                        }
+                    ],
+                    "skin14": [
+                        {
+                            "skinName": "True Gold Dynamike",
+                            "skinCampaign": "True Gold",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/c/c2/Dynamike_Skin-True_Gold.png/revision/latest?cb=20211130044725"
+                        }
+                    ],
+                    "skin15": [
+                        {
+                            "skinName": "Bellhop Mike",
+                            "skinCampaign": "Brawl Pass",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/b/b0/Dynamike_Skin-Bellhop_Mike.png/revision/latest?cb=20201130141017"
+                        }
+                    ]
+                }
+            ],
+            "sprays": [
+                {
+                    "sprays1": "https://vignette.wikia.nocookie.net/brawlstars/images/2/23/Dynamike-Spray.png/revision/latest?cb=20220427051748",
+                    "sprays2": "https://vignette.wikia.nocookie.net/brawlstars/images/a/ac/Dynamike_Hypercharge-Spray.png/revision/latest?cb=20231212184409",
+                    "sprays3": "https://vignette.wikia.nocookie.net/brawlstars/images/f/f0/Tengu_Mike-Spray.png/revision/latest?cb=20230304220459",
+                    "sprays4": "https://vignette.wikia.nocookie.net/brawlstars/images/5/5f/Robo_Mike-Spray.png/revision/latest?cb=20231025151953"
+                }
+            ],
+            "profileIcons": [
+                {
+                    "profileIcon1": "https://vignette.wikia.nocookie.net/brawlstars/images/d/d9/Dynamike1-pfp.png/revision/latest?cb=20220428153421",
+                    "profileIcon2": "https://vignette.wikia.nocookie.net/brawlstars/images/c/ce/Dynamike2-pfp.png/revision/latest?cb=20220429062634",
+                    "profileIcon3": "https://vignette.wikia.nocookie.net/brawlstars/images/3/3c/Dynamike_Hypercharge-pfp.png/revision/latest?cb=20231212181838",
+                    "profileIcon4": "https://vignette.wikia.nocookie.net/brawlstars/images/9/9b/Tengu_Mike-pfp.png/revision/latest?cb=20230304212039",
+                    "profileIcon5": "https://vignette.wikia.nocookie.net/brawlstars/images/1/1d/Robo_Mike-pfp.png/revision/latest?cb=20231025133200",
+                    "profileIcon6": "https://vignette.wikia.nocookie.net/brawlstars/images/8/8a/Spicy_Mike-pfp.png/revision/latest?cb=20231212182914",
+                    "profileIcon7": "https://vignette.wikia.nocookie.net/brawlstars/images/4/4d/Dynasty_Mike-pfp.png/revision/latest?cb=20240228103101"
+                }
+            ]
+        },
+        {
+            "id": "16000008",
+            "name": "Nita",
+            "masterTitle": "The Untamed",
+            "imageURL": "https://vignette.wikia.nocookie.net/brawlstars/images/2/27/Nita1-pfp.png/revision/latest?cb=20220428152919",
+            "rarity": "Rare",
+            "class": "Damage Dealer",
+            "description": "Nita is a ferocious child who never backs down from a fight! The teddy bear on her head serves as a warning to others: don't poke the bear.",
+            "speed": "720",
+            "voiceActor": "Marissa Lenti",
+            "attackName": "Rupture",
+            "attackDescription": "Nita sends forth a shockwave, damaging enemies caught in the tremor.",
+            "superName": "Overbearing",
+            "superDescription": "Nita summons the spirit of Big Baby Bear to hunt down her enemies.",
+            "health": [
+                {
+                    "healthLevel1": "4000",
+                    "healthLevel2": "4400",
+                    "healthLevel3": "4800",
+                    "healthLevel4": "5200",
+                    "healthLevel5": "5600",
+                    "healthLevel6": "6000",
+                    "healthLevel7": "6400",
+                    "healthLevel8": "6800",
+                    "healthLevel9": "7200",
+                    "healthLevel10": "7600",
+                    "healthLevel11": "8000"
+                }
+            ],
+            "attack": [
+                {
+                    "range": 6,
+                    "reload": "1.1 seconds",
+                    "projectilesPerAttack": 1,
+                    "superChargePerHit": "20.9%",
+                    "attackWidth": 1.67,
+                    "projectileSpeed": 2718,
+                    "attackLevel1": "960",
+                    "attackLevel2": "1056",
+                    "attackLevel3": "1152",
+                    "attackLevel4": "1248",
+                    "attackLevel5": "1344",
+                    "attackLevel6": "1440",
+                    "attackLevel7": "1536",
+                    "attackLevel8": "1632",
+                    "attackLevel9": "1728",
+                    "attackLevel10": "1824",
+                    "attackLevel11": "1920"
+                }
+            ],
+            "super": [
+                {
+                    "range": 2,
+                    "projectilesPerSuper": 5,
+                    "superChargePerHit": "10%",
+                    "projectileSpeed": 1196,
+                    "superSpead": 610,
+                    "superReload": "0.6 seconds",
+                    "superLevel1": "400",
+                    "superLevel2": "440",
+                    "superLevel3": "480",
+                    "superLevel4": "520",
+                    "superLevel5": "560",
+                    "superLevel6": "600",
+                    "superLevel7": "640",
+                    "superLevel8": "680",
+                    "superLevel9": "720",
+                    "superLevel10": "760",
+                    "superLevel11": "800",
+                    "healthLevel1": "4300",
+                    "healthLevel2": "4730",
+                    "healthLevel3": "5160",
+                    "healthLevel4": "5590",
+                    "healthLevel5": "6020",
+                    "healthLevel6": "6450",
+                    "healthLevel7": "6880",
+                    "healthLevel8": "7310",
+                    "healthLevel9": "7740",
+                    "healthLevel10": "8170",
+                    "healthLevel11": "8600"
+                }
+            ],
+            "gadgets": [
+                {
+                    "gadget1Name": "Bear Paws",
+                    "gadget1Description": "Nita commands her bear to slam the ground, stunning all enemies within its reach.",
+                    "gadget1URL": "https://cdn-fankit.brawlify.com/nita_gadget_01.png",
+                    "gadget2Name": "Faux Fur",
+                    "gadget2Description": "For the next 3 seconds, Nita's bear gets a 35% shield against damage.",
+                    "gadget2URL": "https://cdn-fankit.brawlify.com/nita_gadget_02.png"
+                }
+            ],
+            "starPowers": [
+                {
+                    "starPowers1Name": "Bear with Me",
+                    "starPowers1Description": "Nita recovers 1040 health whenever her bear hits an enemy brawler. When Nita deals damage to an enemy brawler, her bear regains 1040 health.",
+                    "starPowers1URL": "https://cdn-fankit.brawlify.com/nita_starpower_01.png",
+                    "starPowers2Name": "Hyper Bear",
+                    "starPowers2Description": "Nita's bear attacks faster. Time between swipes is reduced by 60%.",
+                    "starPowers2URL": "https://cdn-fankit.brawlify.com/nita_starpower_02.png"
+                }
+            ],
+            "skins": [
+                {
+                    "skinDefault": [
+                        {
+                            "skinDefaultURL": "https://vignette.wikia.nocookie.net/brawlstars/images/3/36/Nita_Skin-Default.png/revision/latest?cb=20231213021935",
+                            "superSkinDefaultURL": "https://vignette.wikia.nocookie.net/brawlstars/images/a/a8/Nita_Minion-Default.png/revision/latest/scale-to-width-down/1000?cb=20201112101947",
+                            "pinsDefault": [
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/2/2d/Nita_Pin-Neutral.png/revision/latest?cb=20210920031116",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/4/40/Nita_Pin-Happy.png/revision/latest?cb=20210920031817",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/1/1c/Nita_Pin-Sad.png/revision/latest?cb=20210920031859",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/c/c6/Nita_Pin-Angry.png/revision/latest?cb=20210920031937",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/2/20/Nita_Pin-GG.png/revision/latest?cb=20210920032454",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/4/46/Nita_Pin-Clap.png/revision/latest?cb=20210621181538",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/f/f4/Nita_Pin-Thanks.png/revision/latest?cb=20210920032531",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/9/9f/Nita_Pin-Phew.png/revision/latest?cb=20210920032604",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/2/26/Nita_Pin-Special.png/revision/latest?cb=20220917154011",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/f/fb/Nita_Pin-Facepalm.png/revision/latest?cb=20230304131405"
+                            ]
+                        }
+                    ],
+                    "skin1": [
+                        {
+                            "skinName": "Panda Nita",
+                            "skinCampaign": "None",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/6/68/Nita_Skin-Panda.png/revision/latest?cb=20200830054332",
+                            "superSkinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/d/d8/Nita_Minion-Panda.png/revision/latest/scale-to-width-down/1000?cb=20201112102451"
+                        }
+                    ],
+                    "skin2": [
+                        {
+                            "skinName": "Koala Nita",
+                            "skinCampaign": "None",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/4/45/Nita_Skin-Koala.png/revision/latest?cb=20200830160727",
+                            "superSkinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/c/c9/Nita_Minion-Koala.png/revision/latest/scale-to-width-down/1000?cb=20201112102522"
+                        }
+                    ],
+                    "skin3": [
+                        {
+                            "skinName": "Whale Watch Nita",
+                            "skinCampaign": "Supercell Make",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/5/5a/Nita_Skin-Whale_Watch.png/revision/latest/scale-to-width-down/1000?cb=20210906084216",
+                            "superSkinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/b/b7/Nita_Minion-Whale_Watch.png/revision/latest/scale-to-width-down/1000?cb=20210812085452",
+                            "pins": "https://vignette.wikia.nocookie.net/brawlstars/images/b/b9/Nita_Whale_Watch_Pin-Neutral.png/revision/latest?cb=20230304022703"
+                        }
+                    ],
+                    "skin4": [
+                        {
+                            "skinName": "Red Nose Nita",
+                            "skinCampaign": "Brawlidays",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/2/27/Nita_Skin-Red_Nose.png/revision/latest?cb=20200830054237",
+                            "superSkinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/1/11/Nita_Minion-Red_Nose.png/revision/latest/scale-to-width-down/1000?cb=20201112102550",
+                            "pins": "https://vignette.wikia.nocookie.net/brawlstars/images/b/b2/Nita_Red_Nose_Pin-Neutral.png/revision/latest?cb=20211217135010"
+                        }
+                    ],
+                    "skin5": [
+                        {
+                            "skinName": "Shiba Nita",
+                            "skinCampaign": "Golden Kawaii",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/d/db/Nita_Skin-Shiba.png/revision/latest?cb=20200916190845",
+                            "superSkinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/b/b8/Nita_Minion-Shiba.png/revision/latest/scale-to-width-down/1000?cb=20201112102614",
+                            "pins": "https://vignette.wikia.nocookie.net/brawlstars/images/4/47/Nita_Shiba_Pin-Neutral.png/revision/latest?cb=20220428202030"
+                        }
+                    ],
+                    "skin6": [
+                        {
+                            "skinName": "Nian Nita",
+                            "skinCampaign": "Lunar Brawl",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/0/0a/Nita_Skin-Nian.png/revision/latest/scale-to-width-down/1000?cb=20221222212700",
+                            "superSkinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/8/87/Nita_Minion-Nian.png/revision/latest?cb=20220117184019",
+                            "pins": "https://vignette.wikia.nocookie.net/brawlstars/images/c/c6/Nita_Nian_Pin-Neutral.png/revision/latest?cb=20211218031243"
+                        }
+                    ],
+                    "skin7": [
+                        {
+                            "skinName": "Tusked Nita",
+                            "skinCampaign": "Bizzare Circus",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/9/9d/Nita_Skin-Tusked.png/revision/latest?cb=20231213185144",
+                            "superSkinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/b/bf/Nita_Minion-Tusked.png/revision/latest?cb=20231028002842",
+                            "pinsDefault": [
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/b/bc/Nita_Tusked_Pin-Neutral.png/revision/latest?cb=20231023132728",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/4/46/Nita_Tusked_Pin-Happy.png/revision/latest?cb=20231023132728",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/5/5d/Nita_Tusked_Pin-Sad.png/revision/latest?cb=20231023132728",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/5/56/Nita_Tusked_Pin-Angry.png/revision/latest?cb=20231023132727",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/7/71/Nita_Tusked_Pin-GG.png/revision/latest?cb=20231023132728",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/9/91/Nita_Tusked_Pin-Clap.png/revision/latest?cb=20231023132727",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/a/a2/Nita_Tusked_Pin-Thanks.png/revision/latest?cb=20231023132728",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/9/9c/Nita_Tusked_Pin-Phew.png/revision/latest?cb=20231023132728",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/f/fc/Nita_Tusked_Pin-Special.png/revision/latest?cb=20231023132728"
+                            ]
+                        }
+                    ],
+                    "skin8": [
+                        {
+                            "skinName": "True Silver Nita",
+                            "skinCampaign": "True Silver",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/9/95/Nita_Skin-True_Silver.png/revision/latest/scale-to-width-down/1000?cb=20210812084438",
+                            "superSkinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/7/7c/Nita_Minion-True_Silver.png/revision/latest/scale-to-width-down/1000?cb=20210812085030"
+                        }
+                    ],
+                    "skin9": [
+                        {
+                            "skinName": "True Gold Nita",
+                            "skinCampaign": "True Gold",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/d/dc/Nita_Skin-True_Gold.png/revision/latest/scale-to-width-down/1000?cb=20210812084547",
+                            "superSkinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/4/46/Nita_Minion-True_Gold.png/revision/latest/scale-to-width-down/1000?cb=20230207212045"
+                        }
+                    ],
+                    "skin10": [
+                        {
+                            "skinName": "Gummybear Nita",
+                            "skinCampaign": "Brawl Pass",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/f/f6/Nita_Skin-Gummybear.png/revision/latest/scale-to-width-down/1000?cb=20221223222219",
+                            "superSkinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/c/cd/Nita_Minion-Gummybear.png/revision/latest/scale-to-width-down/1000?cb=20221223222249",
+                            "pins": "https://vignette.wikia.nocookie.net/brawlstars/images/2/22/Nita_Gummybear_Pin-Neutral.png/revision/latest?cb=20221218120049"
+                        }
+                    ]
+                }
+            ],
+            "sprays": [
+                {
+                    "sprays1": "https://vignette.wikia.nocookie.net/brawlstars/images/7/73/Nita-Spray.png/revision/latest?cb=20220513110952",
+                    "sprays2": "https://vignette.wikia.nocookie.net/brawlstars/images/d/dd/Tusked_Nita-Spray.png/revision/latest?cb=20231025152051"
+                }
+            ],
+            "profileIcons": [
+                {
+                    "profileIcon1": "https://vignette.wikia.nocookie.net/brawlstars/images/2/27/Nita1-pfp.png/revision/latest?cb=20220428152919",
+                    "profileIcon2": "https://vignette.wikia.nocookie.net/brawlstars/images/2/2e/Nita2-pfp.png/revision/latest?cb=20231213183313",
+                    "profileIcon3": "https://vignette.wikia.nocookie.net/brawlstars/images/b/bb/Tusked_Nita-pfp.png/revision/latest?cb=20231025133308"
+                }
+            ]
+        },
+        {
+            "id": "16000007",
+            "name": "Jessie",
+            "masterTitle": "The Builder",
+            "imageURL": "https://vignette.wikia.nocookie.net/brawlstars/images/a/a5/Jessie1-pfp.png/revision/latest?cb=20221223014718",
+            "rarity": "Super Rare",
+            "class": "Controller",
+            "description": "Jessie is a prodigy who builds guns and gadgets from parts she finds in the junkyard. Maybe one day her mother Pam will see she can fend for herself!",
+            "speed": "720",
+            "speedHypercharge": "907",
+            "voiceActor": "Maya Tuttle",
+            "attackName": "Shock Rifle",
+            "attackDescription": "Jessie fires off an energy orb. After hitting a target the orb bounces to the next target in range, hitting up to three enemies. Each bounce deals 25% less damage.",
+            "superName": "Scrappy!",
+            "superDescription": "Jessie deploys a gun turret that automatically shoots at enemies. It's made of 100% recycled materials!",
+            "health": [
+                {
+                    "healthLevel1": "3000",
+                    "healthLevel2": "3300",
+                    "healthLevel3": "3600",
+                    "healthLevel4": "3900",
+                    "healthLevel5": "4200",
+                    "healthLevel6": "4500",
+                    "healthLevel7": "4800",
+                    "healthLevel8": "5100",
+                    "healthLevel9": "5400",
+                    "healthLevel10": "5700",
+                    "healthLevel11": "6000"
+                }
+            ],
+            "attack": [
+                {
+                    "range": 9,
+                    "reload": "1.8 seconds",
+                    "projectilesPerAttack": 1,
+                    "superChargePerHit": "16.695%",
+                    "attackWidth": 1,
+                    "projectileSpeed": 2870,
+                    "attackLevel1": "1060",
+                    "attackLevel2": "1166",
+                    "attackLevel3": "1272",
+                    "attackLevel4": "1378",
+                    "attackLevel5": "1484",
+                    "attackLevel6": "1590",
+                    "attackLevel7": "1696",
+                    "attackLevel8": "1802",
+                    "attackLevel9": "1908",
+                    "attackLevel10": "2014",
+                    "attackLevel11": "2120"
+                }
+            ],
+            "super": [
+                {
+                    "range": 9,
+                    "rangeSuper": 5,
+                    "superChargePerHit": "6.305%",
+                    "superSpread": "30°",
+                    "projectileSpeedSuper": 1196,
+                    "projectileSpeed": 3478,
+                    "superLevel1": "260",
+                    "superLevel2": "286",
+                    "superLevel3": "312",
+                    "superLevel4": "338",
+                    "superLevel5": "364",
+                    "superLevel6": "390",
+                    "superLevel7": "416",
+                    "superLevel8": "442",
+                    "superLevel9": "468",
+                    "superLevel10": "494",
+                    "superLevel11": "520",
+                    "healthLevel1": "3300",
+                    "healthLevel2": "3630",
+                    "healthLevel3": "3960",
+                    "healthLevel4": "4290",
+                    "healthLevel5": "4620",
+                    "healthLevel6": "4950",
+                    "healthLevel7": "5280",
+                    "healthLevel8": "5610",
+                    "healthLevel9": "5940",
+                    "healthLevel10": "6270",
+                    "healthLevel11": "6600"
+                }
+            ],
+            
+            "hypercharge": [
+                {
+                    "hyperchargeName": "Scrappy 2.0",
+                    "hyperchargeDescription": "Jessie's turret has 50% more health and deals 20% more damage.",
+                    "hyperchargeMultiplier": "60%",
+                    "speed": "+26%",
+                    "damage": "+25%",
+                    "shield": "+5%"
+                }
+            ],
+            "gadgets": [
+                {
+                    "gadget1Name": "Spark Plug",
+                    "gadget1Description": "Jessie triggers a shockwave from her turret, slowing down all enemies within its area of effect.",
+                    "gadget1URL": "https://cdn-fankit.brawlify.com/jessie_gadget_01.png",
+                    "gadget2Name": "Recoil Spring",
+                    "gadget2Description": "Scrappy's attack speed is doubled for 5.0 seconds.",
+                    "gadget2URL": "https://cdn-fankit.brawlify.com/jessie_gadget_02.png"
+                }
+            ],
+            "starPowers": [
+                {
+                    "starPowers1Name": "Energize",
+                    "starPowers1Description": "Jessie can repair her gun turret for 1060 of its missing health by zapping it with her attack.",
+                    "starPowers1URL": "https://cdn-fankit.brawlify.com/jessie_starpower_01.png",
+                    "starPowers2Name": "Shocky",
+                    "starPowers2Description": "Scrappy the Turret now shoots energy orbs that bounce between enemies. The orbs' range after a bounce is 51% of normal range.",
+                    "starPowers2URL": "https://cdn-fankit.brawlify.com/jessie_starpower_02.png"
+                }
+            ],
+            "skins": [
+                {
+                    "skinDefault": [
+                        {
+                            "skinDefaultURL": "https://vignette.wikia.nocookie.net/brawlstars/images/1/15/Jessie_Skin-Default.png/revision/latest?cb=20220421111834",
+                            "superSkinDefaultURL": "https://vignette.wikia.nocookie.net/brawlstars/images/a/ab/Jessie_Minion-Default.png/revision/latest?cb=20211129041953",
+                            "pinsDefault": [
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/b/b5/Jessie_Pin-Neutral.png/revision/latest?cb=20231024182530",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/4/43/Jessie_Pin-Happy.png/revision/latest?cb=20231024182457",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/e/eb/Jessie_Pin-Sad.png/revision/latest?cb=20231024182506",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/d/da/Jessie_Pin-Angry.png/revision/latest?cb=20231024182428",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/e/e6/Jessie_Pin-GG.png/revision/latest?cb=20231024182415",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/7/72/Jessie_Pin-Clap.png/revision/latest?cb=20231024182406",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/0/01/Jessie_Pin-Thanks.png/revision/latest?cb=20231024182323",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/1/18/Jessie_Pin-Phew.png/revision/latest?cb=20231024182309",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/6/6c/Jessie_Pin-Special.png/revision/latest?cb=20231024182259",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/3/35/Jessie_Pin-Facepalm.png/revision/latest?cb=20231024182248",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/a/ae/Jessie_Pin-Hypercharge.png/revision/latest?cb=20231024182120"
+                            ]
+                        }
+                    ],
+                    "skin1": [
+                        {
+                            "skinName": "Red Dragon Jessie",
+                            "skinCampaign": "The Red",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/7/7a/Jessie_Skin-Red_Dragon.png/revision/latest?cb=20230428140904",
+                            "superSkinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/9/9b/Jessie_Minion-Red_Dragon.png/revision/latest?cb=20230428141133"
+                        }
+                    ],
+                    "skin2": [
+                        {
+                            "skinName": "Cat Burglar Jessie",
+                            "skinCampaign": "BSC",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/0/06/Jessie_Skin-Cat_Burglar.png/revision/latest?cb=20220502045534",
+                            "superSkinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/2/2c/Jessie_Minion-Cat_Burglar.png/revision/latest?cb=20211129042623",
+                            "pins": "https://vignette.wikia.nocookie.net/brawlstars/images/0/06/Jessie_Cat_Burglar_Pin-Neutral.png/revision/latest?cb=20230428124721"
+                        }
+                    ],
+                    "skin3": [
+                        {
+                            "skinName": "Doll Jessie",
+                            "skinCampaign": "My Brawlentine",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/6/68/Jessie_Skin-Doll.png/revision/latest?cb=20231213205406",
+                            "superSkinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/d/d3/Jessie_Minion-Doll.png/revision/latest?cb=20231222114315"
+                        }
+                    ],
+                    "skin4": [
+                        {
+                            "skinName": "Shadow Knight Jessie",
+                            "skinCampaign": "Once Upon",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/4/49/Jessie_Skin-Shadow_Knight.png/revision/latest?cb=20230428140943",
+                            "superSkinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/c/c4/Jessie_Minion-Shadow_Knight.png/revision/latest?cb=20230428141202"
+                        }
+                    ],
+                    "skin5": [
+                        {
+                            "skinName": "Dragon Knight Jessie",
+                            "skinCampaign": "Once Upon",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/0/0f/Jessie_Skin-Dragon_Knight.png/revision/latest?cb=20230428141034",
+                            "superSkinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/d/d2/Jessie_Minion-Dragon_Knight.png/revision/latest?cb=20230428141234",
+                            "pins": "https://vignette.wikia.nocookie.net/brawlstars/images/5/50/Jessie_Dragon_Knight_Pin-Neutral.png/revision/latest?cb=20230428124657"
+                        }
+                    ],
+                    "skin6": [
+                        {
+                            "skinName": "Summer Jessie",
+                            "skinCampaign": "Super City Summers",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/a/a0/Jessie_Skin-Summer.png/revision/latest?cb=20230308184207",
+                            "superSkinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/c/cb/Jessie_Minion-Summer.png/revision/latest?cb=20230308184051"
+                        }
+                    ],
+                    "skin7": [
+                        {
+                            "skinName": "Tanuki Jessie",
+                            "skinCampaign": "Golden Kawaii",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/7/75/Jessie_Skin-Tanuki.png/revision/latest?cb=20230308184251",
+                            "superSkinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/8/8c/Jessie_Minion-Tanuki.png/revision/latest?cb=20230308184130",
+                            "pins": "https://vignette.wikia.nocookie.net/brawlstars/images/f/f4/Jessie_Tanuki_Pin-Neutral.png/revision/latest?cb=20220428202137"
+                        }
+                    ],
+                    "skin8": [
+                        {
+                            "skinName": "True Silver Jessie",
+                            "skinCampaign": "True Silver",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/e/e0/Jessie_Skin-True_Silver.png/revision/latest?cb=20211128152507",
+                            "superSkinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/3/38/Jessie_Minion-True_Silver.png/revision/latest?cb=20221218075315"
+                        }
+                    ],
+                    "skin9": [
+                        {
+                            "skinName": "True Gold Jessie",
+                            "skinCampaign": "True Gold",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/b/bb/Jessie_Skin-True_Gold.png/revision/latest?cb=20211129124848",
+                            "superSkinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/9/92/Jessie_Minion-True_Gold.png/revision/latest?cb=20221218075257"
+                        }
+                    ]
+                }
+            ],
+            "sprays": [
+                {
+                    "sprays1": "https://vignette.wikia.nocookie.net/brawlstars/images/a/a5/Jessie-Spray.png/revision/latest?cb=20220427051727",
+                    "sprays2": "https://vignette.wikia.nocookie.net/brawlstars/images/4/48/Jessie_Hypercharge-Spray.png/revision/latest?cb=20231025151734"
+                }
+            ],
+            "profileIcons": [
+                {
+                    "profileIcon1": "https://vignette.wikia.nocookie.net/brawlstars/images/a/a5/Jessie1-pfp.png/revision/latest?cb=20221223014718",
+                    "profileIcon2": "https://vignette.wikia.nocookie.net/brawlstars/images/4/49/Jessie2-pfp.png/revision/latest?cb=20220429062213",
+                    "profileIcon3": "https://vignette.wikia.nocookie.net/brawlstars/images/d/d1/Jessie_Hypercharge-pfp.png/revision/latest?cb=20231025175832"
+                }
+            ]
+        },
+        {
+            "id": "16000006",
+            "name": "Barley",
+            "masterTitle": "You got served!",
+            "imageURL": "https://vignette.wikia.nocookie.net/brawlstars/images/3/39/Barley1-pfp.png/revision/latest?cb=20220429011331",
+            "rarity": "Rare",
+            "class": "Artillery",
+            "description": "A bartending robot designed to mix drinks and banter with patrons, Barley also makes sure to keep his bar clean, to the detriment of anyone who makes a mess.",
+            "speed": 720,
+            "voiceActor": "Phillip Lockwood",
+            "attackName": "Undiluted",
+            "attackDescription": "Barley lobs a bottle, breaking it on the ground. Enemies take damage from the splash, and more damage over time if they stay in the puddle.",
+            "superName": "Last Call",
+            "superDescription": "Barley hurls a flurry of fiery bottles, covering a huge area in flames. This one's on the house!",
+            "health": [
+                {
+                    "healthLevel1": "2400",
+                    "healthLevel2": "2640",
+                    "healthLevel3": "2880",
+                    "healthLevel4": "3120",
+                    "healthLevel5": "3360",
+                    "healthLevel6": "3600",
+                    "healthLevel7": "3840",
+                    "healthLevel8": "4080",
+                    "healthLevel9": "4320",
+                    "healthLevel10": "4560",
+                    "healthLevel11": "4800"
+                }
+            ],
+            "attack": [
+                {
+                    "range": "7.33",
+                    "reload": "2 seconds",
+                    "projectilesPerAttack": 1,
+                    "superChargePerHit": "17%",
+                    "projectileSpeed": 1750,
+                    "attackLevel1": "760",
+                    "attackLevel2": "836",
+                    "attackLevel3": "912",
+                    "attackLevel4": "988",
+                    "attackLevel5": "1064",
+                    "attackLevel6": "1140",
+                    "attackLevel7": "1216",
+                    "attackLevel8": "1292",
+                    "attackLevel9": "1368",
+                    "attackLevel10": "1444",
+                    "attackLevel11": "1520"
+                }
+            ],
+            "super": [
+                {
+                    "range": 9.33,
+                    "projectilesPerSuper": 5,
+                    "superChargePerHit": "13.96%",
+                    "projectileSpeed": 1504,
+                    "superLevel1": "760",
+                    "superLevel2": "836",
+                    "superLevel3": "912",
+                    "superLevel4": "988",
+                    "superLevel5": "1064",
+                    "superLevel6": "1140",
+                    "superLevel7": "1216",
+                    "superLevel8": "1292",
+                    "superLevel9": "1368",
+                    "superLevel10": "1444",
+                    "superLevel11": "1520"
+                }
+            ],
+            "gadgets": [
+                {
+                    "gadget1Name": "Sticky Syrup Mixer",
+                    "gadget1Description": "Barley drops a sticky concoction that leaves a puddle, slowing down all enemies that makes contact with it.",
+                    "gadget1URL": "https://cdn-fankit.brawlify.com/barley_gadget_01.png",
+                    "gadget2Name": "Herbal Tonic",
+                    "gadget2Description": "Barley throws a healing potion at nearby allies that creates an area that heals for 720 health per second.",
+                    "gadget2URL": "https://cdn-fankit.brawlify.com/barley_gadget_02.png"
+                }
+            ],
+            "starPowers": [
+                {
+                    "starPowers1Name": "Medical Use",
+                    "starPowers1Description": "Barley regains 480 health from each attack.",
+                    "starPowers1URL": "https://cdn-fankit.brawlify.com/barley_starpower_01.png",
+                    "starPowers2Name": "Extra Noxious",
+                    "starPowers2Description": "Adds +200 damage per second to Barley's attack.",
+                    "starPowers2URL": "https://cdn-fankit.brawlify.com/barley_starpower_02.png"
+                }
+            ],
+            "skins": [
+                {
+                    "skinDefault": [
+                        {
+                            "skinDefaultURL": "https://vignette.wikia.nocookie.net/brawlstars/images/3/3c/Barley_Skin-Default.png/revision/latest?cb=20200331165158",
+                            "pinsDefault": [
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/2/2d/Barley_Pin-Neutral.png/revision/latest?cb=20210920044213",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/3/38/Barley_Pin-Happy.png/revision/latest?cb=20210920044229",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/0/0e/Barley_Pin-Sad.png/revision/latest?cb=20210920044239",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/a/a7/Barley_Pin-Angry.png/revision/latest?cb=20210920044251",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/a/a7/Barley_Pin-GG.png/revision/latest?cb=20210920044316",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/9/9a/Barley_Pin-Clap.png/revision/latest?cb=20210621183536",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/0/04/Barley_Pin-Thanks.png/revision/latest?cb=20210920044327",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/8/86/Barley_Pin-Phew.png/revision/latest?cb=20210920044344",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/8/80/Barley_Pin-Special.png/revision/latest?cb=20220629084511",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/0/03/Barley_Pin-Facepalm.png/revision/latest?cb=20230304131634"
+                            ]
+                        }
+                    ],
+                    "skin1": [
+                        {
+                            "skinName": "Wizard Barley",
+                            "skinCampaign": "Clash Stories",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/5/5d/Barley_Skin-Wizard.png/revision/latest?cb=20230327202210"
+                        }
+                    ],
+                    "skin2": [
+                        {
+                            "skinName": "Red Wizard Barley",
+                            "skinCampaign": "Clash Stories",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/4/4b/Barley_Skin-Red_Wizard.png/revision/latest?cb=20230327202127"
+                        }
+                    ],
+                    "skin3": [
+                        {
+                            "skinName": "Golden Barley",
+                            "skinCampaign": "None",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/b/ba/Barley_Skin-Golden.png/revision/latest?cb=20230327202352"
+                        }
+                    ],
+                    "skin4": [
+                        {
+                            "skinName": "Maple Barley",
+                            "skinCampaign": "None",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/5/5f/Barley_Skin-Maple.png/revision/latest?cb=20200714084134",
+                            "pins": "https://vignette.wikia.nocookie.net/brawlstars/images/2/27/Barley_Maple_Pin-Neutral.png/revision/latest?cb=20221215105844"
+                        }
+                    ],
+                    "skin5": [
+                        {
+                            "skinName": "Unicorn Knight Barley",
+                            "skinCampaign": "Once Upon",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/5/5f/Barley_Skin-Unicorn_Knight.png/revision/latest?cb=20230214172908",
+                            "pins": "https://vignette.wikia.nocookie.net/brawlstars/images/e/e3/Barley_Unicorn_Knight_Pin-Neutral.png/revision/latest?cb=20221215105916"
+                        }
+                    ],
+                    "skin6": [
+                        {
+                            "skinName": "Bakesale Barley",
+                            "skinCampaign": "Retropolis Nights",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/1/11/Barley_Skin-Bakesale.png/revision/latest/scale-to-width-down/1000?cb=20210903093620",
+                            "pins": "https://vignette.wikia.nocookie.net/brawlstars/images/7/7b/Barley_Bakesale_Pin-Neutral.png/revision/latest?cb=20211005032244"
+                        }
+                    ],
+                    "skin7": [
+                        {
+                            "skinName": "Sway Master Barley",
+                            "skinCampaign": "Lunar Brawl",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/8/8c/Barley_Skin-Sway_Master.png/revision/latest?cb=20230306212342",
+                            "pins": "https://vignette.wikia.nocookie.net/brawlstars/images/f/f6/Barley_Sway_Master_Pin-Neutral.png/revision/latest?cb=20211218031318"
+                        }
+                    ],
+                    "skin8": [
+                        {
+                            "skinName": "True Silver Barley",
+                            "skinCampaign": "True Silver",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/5/52/Barley_Skin-True_Silver.png/revision/latest/scale-to-width-down/1000?cb=20201028110047"
+                        }
+                    ],
+                    "skin9": [
+                        {
+                            "skinName": "True Gold Barley",
+                            "skinCampaign": "True Gold",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/b/b9/Barley_Skin-True_Gold.png/revision/latest/scale-to-width-down/1000?cb=20201020162504"
+                        }
+                    ]
+                }
+            ],
+            "sprays": [
+                {
+                    "sprays1": "https://vignette.wikia.nocookie.net/brawlstars/images/6/6e/Barley-Spray.png/revision/latest?cb=20220629090842"
+                }
+            ],
+            "profileIcons": [
+                {
+                    "profileIcon1": "https://vignette.wikia.nocookie.net/brawlstars/images/3/39/Barley1-pfp.png/revision/latest?cb=20220429011331",
+                    "profileIcon2": "https://vignette.wikia.nocookie.net/brawlstars/images/9/97/Barley2-pfp.png/revision/latest?cb=20231213185353",
+                    "profileIcon3": "https://vignette.wikia.nocookie.net/brawlstars/images/f/f6/Bakesale_Barley-pfp.png/revision/latest?cb=20231025132537"
+                }
+            ]
+        },
+        {
+            "id": "16000005",
+            "name": "Spike",
+            "masterTitle": "One of a Kind",
+            "imageURL": "https://vignette.wikia.nocookie.net/brawlstars/images/9/97/Spike1-pfp.png/revision/latest?cb=20220429014727",
+            "rarity": "Legendary",
+            "class": "Damage Dealer",
+            "description": "Most people think Spike is Colt and Shelly's cute sidekick at the Ranger Ranch. Nobody could begin to guess the depths of his trauma.",
+            "speed": "720",
+            "speedHypercharge": "907",
+            "attackName": "Needle Grenade",
+            "attackDescription": "Spike fires off a small cactus that explodes, shooting spikes in different directions.",
+            "superName": "Stick Around!",
+            "superDescription": "Spike lobs a thorny grenade. Enemies caught in the blast area take damage and are slowed down.",
+            "health": [
+                {
+                    "healthLevel1": "2400",
+                    "healthLevel2": "2640",
+                    "healthLevel3": "2880",
+                    "healthLevel4": "3120",
+                    "healthLevel5": "3360",
+                    "healthLevel6": "3600",
+                    "healthLevel7": "3840",
+                    "healthLevel8": "4080",
+                    "healthLevel9": "4320",
+                    "healthLevel10": "4560",
+                    "healthLevel11": "4800"
+                }
+            ],
+            "attack": [
+                {
+                    "range": 7.67,
+                    "reload": "2 seconds",
+                    "projectilesPerAttack": 7,
+                    "superChargePerHit": "14.42%",
+                    "attackWidth": 1,
+                    "projectileSpeed": 2174,
+                    "attackLevel1": "560",
+                    "attackLevel2": "616",
+                    "attackLevel3": "672",
+                    "attackLevel4": "728",
+                    "attackLevel5": "784",
+                    "attackLevel6": "840",
+                    "attackLevel7": "896",
+                    "attackLevel8": "952",
+                    "attackLevel9": "1008",
+                    "attackLevel10": "1064",
+                    "attackLevel11": "1120"
+                }
+            ],
+            "super": [
+                {
+                    "range": 7.67,
+                    "duration": "4.5 seconds",
+                    "superChargePerHit": "12.5%",
+                    "thornyGrenadeRange": 2.67,
+                    "projectileSpeed": 1739,
+                    "superLevel1": "400",
+                    "superLevel2": "440",
+                    "superLevel3": "480",
+                    "superLevel4": "520",
+                    "superLevel5": "560",
+                    "superLevel6": "600",
+                    "superLevel7": "640",
+                    "superLevel8": "680",
+                    "superLevel9": "720",
+                    "superLevel10": "760",
+                    "superLevel11": "800"
+                }
+            ],
+            "hypercharge": [
+                {
+                    "hyperchargeName": "Blooming Season",
+                    "hyperchargeDescription": "Stick Around has 20% larger area.",
+                    "hyperchargeMultiplier": "35%",
+                    "speed": "+26%",
+                    "damage": "+25%",
+                    "shield": "+5%"
+                }
+            ],
+            "gadgets": [
+                {
+                    "gadget1Name": "Popping Pincushion",
+                    "gadget1Description": "Spike shoots 3 waves of needles in all directions, dealing 1120 damage per hit.",
+                    "gadget1URL": "https://cdn-fankit.brawlify.com/spike_gadget_01.png",
+                    "gadget2Name": "Life Plant",
+                    "gadget2Description": "Spike grows a large cactus with 2400 health to give cover to friendlies. If destroyed, the cactus bursts, and all nearby friendlies recover 1440 health.",
+                    "gadget2URL": "https://cdn-fankit.brawlify.com/spike_gadget_02.png"
+                }
+            ],
+            "starPowers": [
+                {
+                    "starPowers1Name": "Fertilize",
+                    "starPowers1Description": "After using Super, Spike regenerates 1200 health per second by staying in its area of effect.",
+                    "starPowers1URL": "https://cdn-fankit.brawlify.com/spike_starpower_01.png",
+                    "starPowers2Name": "Curveball",
+                    "starPowers2Description": "Spikes from the cactus grenade fly in a curving motion, making it easier to hit targets.",
+                    "starPowers2URL": "https://cdn-fankit.brawlify.com/spike_starpower_02.png"
+                }
+            ],
+            "skins": [
+                {
+                    "skinDefault": [
+                        {
+                            "skinDefaultURL": "https://vignette.wikia.nocookie.net/brawlstars/images/8/8e/Spike_Skin-Default.png/revision/latest/scale-to-width-down/1000?cb=20230630135425",
+                            "pinsDefault": [
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/8/89/Spike_Pin-Neutral.png/revision/latest?cb=20210921035045",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/a/a6/Spike_Pin-Happy.png/revision/latest?cb=20210921035106",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/c/c4/Spike_Pin-Sad.png/revision/latest?cb=20210921035125",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/c/cf/Spike_Pin-Angry.png/revision/latest?cb=20210921035141",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/f/ff/Spike_Pin-GG.png/revision/latest?cb=20210921035234",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/7/71/Spike_Pin-Clap.png/revision/latest?cb=20210621180411",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/a/a8/Spike_Pin-Thanks.png/revision/latest?cb=20210921035259",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/4/4a/Spike_Pin-Phew.png/revision/latest?cb=20210921035311",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/f/ff/Spike_Pin-Special.png/revision/latest?cb=20220917154012",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/7/75/Spike_Pin-Facepalm.png/revision/latest?cb=20230304133627",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/a/ad/Spike_Pin-Hypercharge.png/revision/latest?cb=20230907101007"
+                            ]
+                        }
+                    ],
+                    "skin1": [
+                        {
+                            "skinName": "Mask Spike",
+                            "skinCampaign": "Gift Shop",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/c/cd/Spike_Skin-Mask.png/revision/latest/scale-to-width-down/1000?cb=20230207103014"
+                        }
+                    ],
+                    "skin2": [
+                        {
+                            "skinName": "Sakura Spike",
+                            "skinCampaign": "Golden Kawaii",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/4/43/Spike_Skin-Sakura.png/revision/latest/scale-to-width-down/1000?cb=20230630135519",
+                            "pins": "https://vignette.wikia.nocookie.net/brawlstars/images/2/2a/Spike_Sakura_Pin-Neutral.png/revision/latest?cb=20220428190103"
+                        }
+                    ],
+                    "skin3": [
+                        {
+                            "skinName": "Logmas Spike",
+                            "skinCampaign": "Brawlidays",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/5/5f/Spike_Skin-Logmas.png/revision/latest/scale-to-width-down/1000?cb=20230813104032",
+                            "pins": "https://vignette.wikia.nocookie.net/brawlstars/images/8/8e/Spike_Logmas_Pin-Neutral.png/revision/latest?cb=20211217135304"
+                        }
+                    ],
+                    "skin4": [
+                        {
+                            "skinName": "Pyro Spike",
+                            "skinCampaign": "Stunt Show",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/5/5b/Spike_Skin-Pyro.png/revision/latest/scale-to-width-down/1000?cb=20230630135607",
+                            "pins": "https://vignette.wikia.nocookie.net/brawlstars/images/4/4c/Spike_Pyro_Pin-Neutral.png/revision/latest?cb=20220428193358"
+                        }
+                    ],
+                    "skin5": [
+                        {
+                            "skinName": "Robo Spike",
+                            "skinCampaign": "Robots & Monsters",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/5/56/Spike_Skin-Robo.png/revision/latest/scale-to-width-down/1000?cb=20230630135720",
+                            "pins": "https://vignette.wikia.nocookie.net/brawlstars/images/e/e3/Spike_Robo_Pin-GG.png/revision/latest?cb=20240226115555"
+                        }
+                    ],
+                    "skin6": [
+                        {
+                            "skinName": "Dark Lord Spike",
+                            "skinCampaign": "Lunar Brawl",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/2/20/Spike_Skin-Dark_Lord.png/revision/latest/scale-to-width-down/1000?cb=20230630135814",
+                            "pins": "https://vignette.wikia.nocookie.net/brawlstars/images/c/c9/Spike_Dark_Lord_Pin-Happy.png/revision/latest?cb=20211001034946"
+                        }
+                    ],
+                    "skin7": [
+                        {
+                            "skinName": "Toon Spike",
+                            "skinCampaign": "Cartoon Studios",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/2/21/Spike_Skin-Toon.png/revision/latest/scale-to-width-down/1000?cb=20231213210226",
+                            "pinsDefault": [
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/d/dc/Spike_Toon_Pin-Neutral.png/revision/latest?cb=20231212131147",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/0/02/Spike_Toon_Pin-Happy.png/revision/latest?cb=20231212131147",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/8/8e/Spike_Toon_Pin-Sad.png/revision/latest?cb=20231212131147",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/0/07/Spike_Toon_Pin-Angry.png/revision/latest?cb=20231212131147",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/6/6d/Spike_Toon_Pin-GG.png/revision/latest?cb=20231212131147",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/e/e9/Spike_Toon_Pin-Clap.png/revision/latest?cb=20231212131148",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/f/f1/Spike_Toon_Pin-Thanks.png/revision/latest?cb=20231212131148",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/d/d5/Spike_Toon_Pin-Phew.png/revision/latest?cb=20231212131147",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/6/68/Spike_Toon_Pin-Special.png/revision/latest?cb=20231212131148"
+                            ]
+                        }
+                    ],
+                    "skin8": [
+                        {
+                            "skinName": "True Silver Spike",
+                            "skinCampaign": "True Silver",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/1/19/Spike_Skin-True_Silver.png/revision/latest?cb=20211130025848"
+                        }
+                    ],
+                    "skin9": [
+                        {
+                            "skinName": "True Gold Spike",
+                            "skinCampaign": "True Gold",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/e/e2/Spike_Skin-True_Gold.png/revision/latest?cb=20211130030320"
+                        }
+                    ]
+                }
+            ],
+            "sprays": [
+                {
+                    "sprays1": "https://vignette.wikia.nocookie.net/brawlstars/images/1/11/Spike-Spray.png/revision/latest?cb=20221217131412",
+                    "sprays2": "https://vignette.wikia.nocookie.net/brawlstars/images/b/b2/Spike_Hypercharge-Spray.png/revision/latest?cb=20230905141226",
+                    "sprays3": "https://vignette.wikia.nocookie.net/brawlstars/images/b/bc/Toon_Spike-Spray.png/revision/latest?cb=20231212185345"
+                }
+            ],
+            "profileIcons": [
+                {
+                    "profileIcon1": "https://vignette.wikia.nocookie.net/brawlstars/images/9/97/Spike1-pfp.png/revision/latest?cb=20220429014727",
+                    "profileIcon2": "https://vignette.wikia.nocookie.net/brawlstars/images/0/0a/Spike2-pfp.png/revision/latest?cb=20230301192758",
+                    "profileIcon3": "https://vignette.wikia.nocookie.net/brawlstars/images/9/9b/Spike_Hypercharge-pfp.png/revision/latest?cb=20230905141225",
+                    "profileIcon4": "https://vignette.wikia.nocookie.net/brawlstars/images/d/de/Toon_Spike-pfp.png/revision/latest?cb=20231212183745",
+                    "profileIcon5": "https://vignette.wikia.nocookie.net/brawlstars/images/2/23/Robo_Spike-pfp.png/revision/latest?cb=20240226115555"
+                }
+            ]
+        },
+        {
+            "id": "16000004",
+            "name": "Rico",
+            "masterTitle": "The Lover",
+            "imageURL": "https://vignette.wikia.nocookie.net/brawlstars/images/7/7e/Rico1-pfp.png/revision/latest?cb=20220429011633",
+            "rarity": "Super Rare",
+            "class": "Damage Dealer",
+            "description": "Rico is definitely a real space bounty hunter who tracks down the galaxy's most wanted criminals, not a gumball machine pretending to be cool.",
+            "speed": "720",
+            "voiceActor": "Martin Schjøler",
+            "attackName": "Bouncy Bullets",
+            "attackDescription": "Rico's bullets bounce off walls, gaining range. They can hit enemies behind cover.",
+            "superName": "Trick Shot",
+            "superDescription": "Rico fires a long burst of bullets that pierce through enemies and bounce off walls, gaining range.",
+            "health": [
+                {
+                    "healthLevel1": "2800",
+                    "healthLevel2": "3080",
+                    "healthLevel3": "3360",
+                    "healthLevel4": "3640",
+                    "healthLevel5": "3920",
+                    "healthLevel6": "4200",
+                    "healthLevel7": "4480",
+                    "healthLevel8": "4760",
+                    "healthLevel9": "5040",
+                    "healthLevel10": "5320",
+                    "healthLevel11": "5600"
+                }
+            ],
+            "attack": [
+                {
+                    "range": 9.67,
+                    "reload": "1.2 seconds",
+                    "projectilesPerAttack": 5,
+                    "superChargePerHit": "8.4%",
+                    "attackSpread": "7.5°",
+                    "attackWidth": 0.67,
+                    "projectileSpeed": "3478",
+                    "attackLevel1": "320",
+                    "attackLevel2": "352",
+                    "attackLevel3": "384",
+                    "attackLevel4": "416",
+                    "attackLevel5": "448",
+                    "attackLevel6": "480",
+                    "attackLevel7": "512",
+                    "attackLevel8": "544",
+                    "attackLevel9": "576",
+                    "attackLevel10": "608",
+                    "attackLevel11": "640"
+                }
+            ],
+            "super": [
+                {
+                    "range": 13.33,
+                    "projectilesPerSuper": 12,
+                    "superChargePerHit": "9.25%",
+                    "superSpread": "10°",
+                    "superWidth": 0.67,
+                    "projectileSpeed": 4891,
+                    "superLevel1": "360",
+                    "superLevel2": "396",
+                    "superLevel3": "432",
+                    "superLevel4": "468",
+                    "superLevel5": "504",
+                    "superLevel6": "540",
+                    "superLevel7": "576",
+                    "superLevel8": "612",
+                    "superLevel9": "648",
+                    "superLevel10": "684",
+                    "superLevel11": "720"
+                }
+            ],
+            "gadgets": [
+                {
+                    "gadget1Name": "Multiball Launcher",
+                    "gadget1Description": "Rico blasts waves of bouncy bullets in all directions.",
+                    "gadget1URL": "https://cdn-fankit.brawlify.com/rico_gadget_01.png",
+                    "gadget2Name": "Bouncy Castle",
+                    "gadget2Description": "Rico's next attack will heal him for 256 health from each bounce of a projectile.",
+                    "gadget2URL": "https://cdn-fankit.brawlify.com/rico_gadget_02.png"
+                }
+            ],
+            "starPowers": [
+                {
+                    "starPowers1Name": "Super Bouncy",
+                    "starPowers1Description": "Rico's bullets, from attack and Super alike, get supercharged by their first bounce and deal +256 damage!",
+                    "starPowers1URL": "https://cdn-fankit.brawlify.com/rico_starpower_01.png",
+                    "starPowers2Name": "Robo Retreat",
+                    "starPowers2Description": "When Rico falls below 40% health, he runs 34% faster!",
+                    "starPowers2URL": "https://cdn-fankit.brawlify.com/rico_starpower_02.png"
+                }
+            ],
+            "skins": [
+                {
+                    "skinDefault": [
+                        {
+                            "skinDefaultURL": "https://vignette.wikia.nocookie.net/brawlstars/images/7/71/Rico_Skin-Default.png/revision/latest?cb=20210320213742",
+                            "pinsDefault": [
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/e/e2/Rico_Pin-Neutral.png/revision/latest?cb=20210920045859",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/0/09/Rico_Pin-Happy.png/revision/latest?cb=20210920045918",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/d/df/Rico_Pin-Sad.png/revision/latest?cb=20210920045929",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/b/b2/Rico_Pin-Angry.png/revision/latest?cb=20210920045951",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/7/79/Rico_Pin-GG.png/revision/latest?cb=20210920050002",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/1/11/Rico_Pin-Clap.png/revision/latest?cb=20210621181113",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/e/e9/Rico_Pin-Thanks.png/revision/latest?cb=20210920050018",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/5/58/Rico_Pin-Phew.png/revision/latest?cb=20210920050032",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/1/19/Rico_Pin-Special.png/revision/latest?cb=20220917154012",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/f/f4/Rico_Pin-Facepalm.png/revision/latest?cb=20230304132007"
+                            ]
+                        }
+                    ],
+                    "skin1": [
+                        {
+                            "skinName": "Ricochet",
+                            "skinCampaign": "Anniversary",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/4/49/Rico_Skin-Ricochet.png/revision/latest?cb=20200714084628"
+                        }
+                    ],
+                    "skin2": [
+                        {
+                            "skinName": "Loaded Rico",
+                            "skinCampaign": "None",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/a/a7/Rico_Skin-Loaded.png/revision/latest?cb=20230217023731"
+                        }
+                    ],
+                    "skin3": [
+                        {
+                            "skinName": "Popcorn Rico",
+                            "skinCampaign": "Starrs of Brawlywood",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/e/e9/Rico_Skin-Popcorn.png/revision/latest?cb=20210811181033"
+                        }
+                    ],
+                    "skin4": [
+                        {
+                            "skinName": "Guard Rico",
+                            "skinCampaign": "Sands of Time",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/5/5f/Rico_Skin-Guard.png/revision/latest?cb=20220208201524"
+                        }
+                    ],
+                    "skin5": [
+                        {
+                            "skinName": "Chicken Rico",
+                            "skinCampaign": "Club Series",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/f/fb/Rico_Skin-Chicken.png/revision/latest?cb=20230222141315"
+                        }
+                    ],
+                    "skin6": [
+                        {
+                            "skinName": "Final Boss Rico",
+                            "skinCampaign": "Ranked",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/b/bf/Rico_Skin-Final_Boss.png/revision/latest/scale-to-width-down/1000?cb=20231213210201",
+                            "pins": "https://vignette.wikia.nocookie.net/brawlstars/images/a/ad/Rico_Final_Boss_Pin-Special.png/revision/latest?cb=20231212131148"
+                        }
+                    ],
+                    "skin7": [
+                        {
+                            "skinName": "True Silver Rico",
+                            "skinCampaign": "True Silver",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/e/ed/Rico_Skin-True_Silver.png/revision/latest/scale-to-width-down/1000?cb=20201028110053"
+                        }
+                    ],
+                    "skin8": [
+                        {
+                            "skinName": "True Gold Rico",
+                            "skinCampaign": "True Gold",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/5/56/Rico_Skin-True_Gold.png/revision/latest/scale-to-width-down/1000?cb=20201020163050"
+                        }
+                    ],
+                    "skin9": [
+                        {
+                            "skinName": "Firefly Rico",
+                            "skinCampaign": "Brawl Pass",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/4/4b/Rico_Skin-Firefly.png/revision/latest?cb=20230215210637",
+                            "pins": "https://vignette.wikia.nocookie.net/brawlstars/images/c/ca/Rico_Firefly_Pin-Neutral.png/revision/latest?cb=20220414151219"
+                        }
+                    ]
+                }
+            ],
+            "sprays": [
+                {
+                    "sprays1": "https://vignette.wikia.nocookie.net/brawlstars/images/2/20/Rico-Spray.png/revision/latest?cb=20220629091150"
+                }
+            ],
+            "profileIcons": [
+                {
+                    "profileIcon1": "https://vignette.wikia.nocookie.net/brawlstars/images/7/7e/Rico1-pfp.png/revision/latest?cb=20220429011633",
+                    "profileIcon2": "https://vignette.wikia.nocookie.net/brawlstars/images/8/80/Rico2-pfp.png/revision/latest?cb=20221022092357"
+                }
+            ]
+        },
+        {
+            "id": "16000003",
+            "name": "Brock",
+            "masterTitle": "Boom!",
+            "imageURL": "https://vignette.wikia.nocookie.net/brawlstars/images/5/52/Brock1-pfp.png/revision/latest?cb=20220428153402",
+            "rarity": "Rare",
+            "class": "Marksman",
+            "description": "Brock is a smack-talking video game enthusiast. His big attitude hides a more introverted personality, but he'll still do whatever it takes to win!",
+            "speed": "720",
+            "voiceActor": "Scott Williams",
+            "attackName": "Rockin' Rocket",
+            "attackDescription": "Brock lets fly with a single Rockin' Rocket that really goes the distance.",
+            "superName": "Rocket Rain",
+            "superDescription": "Brock fires a rocket barrage that takes out enemies and obstacles. He only wants to see you bathing in the Rocket Rain!",
+            "health": [
+                {
+                    "healthLevel1": "2400",
+                    "healthLevel2": "2640",
+                    "healthLevel3": "2880",
+                    "healthLevel4": "3120",
+                    "healthLevel5": "3360",
+                    "healthLevel6": "3600",
+                    "healthLevel7": "3840",
+                    "healthLevel8": "4080",
+                    "healthLevel9": "4320",
+                    "healthLevel10": "4560",
+                    "healthLevel11": "4800"
+                }
+            ],
+            "attack": [
+                {
+                    "range": 9,
+                    "reload": "2.1 seconds",
+                    "projectilesPerAttack": "1",
+                    "superChargePerHit": "20%",
+                    "attackWidth": 0.67,
+                    "projectileSpeed": 2700,
+                    "attackLevel1": "1160",
+                    "fireDamageLevel1": "348",
+                    "attackLevel2": "1276",
+                    "fireDamageLevel2": "382",
+                    "attackLevel3": "1392",
+                    "fireDamageLevel3": "416",
+                    "attackLevel4": "1508",
+                    "fireDamageLevel4": "450",
+                    "attackLevel5": "1624",
+                    "fireDamageLevel5": "484",
+                    "attackLevel6": "1740",
+                    "fireDamageLevel6": "518",
+                    "attackLevel7": "1856",
+                    "fireDamageLevel7": "552",
+                    "attackLevel8": "1972",
+                    "fireDamageLevel8": "586",
+                    "attackLevel9": "2088",
+                    "fireDamageLevel9": "620",
+                    "attackLevel10": "2204",
+                    "fireDamageLevel10": "654",
+                    "attackLevel11": "2320",
+                    "fireDamageLevel11": "688"
+                }
+            ],
+            "super": [
+                {
+                    "range": 8.33,
+                    "projectilesPerSuper": 9,
+                    "superChargePerHit": "20.8%",
+                    "projectileSpeed": 870,
+                    "superLevel1": "1040",
+                    "superLevel2": "1144",
+                    "superLevel3": "1248",
+                    "superLevel4": "1352",
+                    "superLevel5": "1456",
+                    "superLevel6": "1560",
+                    "superLevel7": "1664",
+                    "superLevel8": "1768",
+                    "superLevel9": "1872",
+                    "superLevel10": "1976",
+                    "superLevel11": "2080"
+                }
+            ],
+            "gadgets": [
+                {
+                    "gadget1Name": "Rocket Laces",
+                    "gadget1Description": "Brock blasts the ground below him and propels himself into the air. The explosion deals 580 damage to nearby enemies.",
+                    "gadget1URL": "https://cdn-fankit.brawlify.com/brock_gadget_01.png",
+                    "gadget2Name": "Rocket Fuel",
+                    "gadget2Description": "Brock's next attack is a mega rocket that is bigger, badder, faster and destroys walls.",
+                    "gadget2URL": "https://cdn-fankit.brawlify.com/brock_gadget_02.png"
+                }
+            ],
+            "starPowers": [
+                {
+                    "starPowers1Name": "More Rockets!",
+                    "starPowers1Description": "Rocket Rain now rains down 44% more rockets.",
+                    "starPowers1URL": "https://cdn-fankit.brawlify.com/brock_starpower_01.png",
+                    "starPowers2Name": "Rocket No. Four",
+                    "starPowers2Description": "Brock loads a fourth rocket into his launcher, increasing his ammo capacity (and discarding the thermos bottle he's been keeping in his launcher's #4 tube).",
+                    "starPowers2URL": "https://cdn-fankit.brawlify.com/brock_starpower_02.png"
+                }
+            ],
+            "skins": [
+                {
+                    "skinDefault": [
+                        {
+                            "skinDefaultURL": "https://vignette.wikia.nocookie.net/brawlstars/images/7/70/Brock_Skin-Default.png/revision/latest?cb=20200331164840",
+                            "pinsDefault": [
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/a/a1/Brock_Pin-Neutral.png/revision/latest?cb=20210920042408",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/b/b3/Brock_Pin-Happy.png/revision/latest?cb=20210920042427",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/b/b0/Brock_Pin-Sad.png/revision/latest?cb=20210920042439",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/3/3e/Brock_Pin-Angry.png/revision/latest?cb=20210920042455",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/7/74/Brock_Pin-GG.png/revision/latest?cb=20210920042512",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/f/f7/Brock_Pin-Clap.png/revision/latest?cb=20210621183214",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/2/24/Brock_Pin-Thanks.png/revision/latest?cb=20210920042523",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/0/0e/Brock_Pin-Phew.png/revision/latest?cb=20210920042535",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/0/01/Brock_Pin-Special.png/revision/latest?cb=20220917154007",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/c/cc/Brock_Pin-Facepalm.png/revision/latest?cb=20230304131539"
+                            ]
+                        }
+                    ],
+                    "skin1": [
+                        {
+                            "skinName": "Old School Brock",
+                            "skinCampaign": "Anniversary",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/9/9b/Brock_Skin-Old_School.png/revision/latest/scale-to-width-down/1000?cb=20201225081546"
+                        }
+                    ],
+                    "skin2": [
+                        {
+                            "skinName": "ZomBrock",
+                            "skinCampaign": "Brawl-o-ween",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/e/e6/Brock_Skin-ZomBrock.png/revision/latest?cb=20230215173445",
+                            "pins": "https://vignette.wikia.nocookie.net/brawlstars/images/8/82/Brock_ZomBrock_Pin-Special.png/revision/latest?cb=20230902142700"
+                        }
+                    ],
+                    "skin3": [
+                        {
+                            "skinName": "Beach Brock",
+                            "skinCampaign": "Super City Summers",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/0/04/Brock_Skin-Beach.png/revision/latest?cb=20200830053157"
+                        }
+                    ],
+                    "skin4": [
+                        {
+                            "skinName": "Boom Box Brock",
+                            "skinCampaign": "None",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/2/2b/Brock_Skin-Boom_Box.png/revision/latest?cb=20200714082657"
+                        }
+                    ],
+                    "skin5": [
+                        {
+                            "skinName": "Lion Dance Brock",
+                            "skinCampaign": "Lunar Brawl",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/6/63/Brock_Skin-Lion_Dance.png/revision/latest?cb=20230215173240"
+                        }
+                    ],
+                    "skin6": [
+                        {
+                            "skinName": "Hot Rod Brock",
+                            "skinCampaign": "Retropolis Nights",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/7/77/Brock_Skin-Hot_Rod.png/revision/latest?cb=20200714082739",
+                            "pins": "https://vignette.wikia.nocookie.net/brawlstars/images/d/df/Brock_Hot_Rod_Pin-Neutral.png/revision/latest?cb=20211005032211"
+                        }
+                    ],
+                    "skin7": [
+                        {
+                            "skinName": "Postal Brock",
+                            "skinCampaign": "Ranked",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/8/8c/Brock_Skin-Postal.png/revision/latest?cb=20230120000526",
+                            "pins": "https://vignette.wikia.nocookie.net/brawlstars/images/3/32/Brock_Postal_Pin-Neutral.png/revision/latest?cb=20220629095813"
+                        }
+                    ],
+                    "skin8": [
+                        {
+                            "skinName": "Rocket Brown",
+                            "skinCampaign": "Brown & Friends",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/b/bd/Brock_Skin-Rocket_Brown.png/revision/latest/scale-to-width-down/1000?cb=20240229132146",
+                            "pins": "https://vignette.wikia.nocookie.net/brawlstars/images/a/ad/Brock_Rocket_Brown_Pin-Neutral.png/revision/latest?cb=20240226115554"
+                        }
+                    ],
+                    "skin9": [
+                        {
+                            "skinName": "Zeus Brock",
+                            "skinCampaign": "Legends of Olympus",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/4/44/Brock_Skin-Zeus.png/revision/latest/scale-to-width-down/1000?cb=20230927132114",
+                            "pins": "https://vignette.wikia.nocookie.net/brawlstars/images/5/5f/Brock_Zeus_Pin-Neutral.png/revision/latest?cb=20230428132046"
+                        }
+                    ],
+                    "skin10": [
+                        {
+                            "skinName": "True Silver Brock",
+                            "skinCampaign": "True Silver",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/3/30/Brock_Skin-True_Silver.png/revision/latest/scale-to-width-down/1000?cb=20230207115906"
+                        }
+                    ],
+                    "skin11": [
+                        {
+                            "skinName": "True Gold Brock",
+                            "skinCampaign": "True Gold",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/5/5f/Brock_Skin-True_Gold.png/revision/latest/scale-to-width-down/1000?cb=20230207115945"
+                        }
+                    ],
+                    "skin12": [
+                        {
+                            "skinName": "Super Ranger Brock",
+                            "skinCampaign": "Brawl Pass",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/4/45/Brock_Skin-Super_Ranger.png/revision/latest?cb=20200714082933"
+                        }
+                    ]
+                }
+            ],
+            "sprays": [
+                {
+                    "sprays1": "https://vignette.wikia.nocookie.net/brawlstars/images/2/2e/Brock-Spray.png/revision/latest?cb=20220513110154",
+                    "sprays2": "https://vignette.wikia.nocookie.net/brawlstars/images/d/d4/Zeus_Brock-Spray.png/revision/latest?cb=20230427111217"
+                }
+            ],
+            "profileIcons": [
+                {
+                    "profileIcon1": "https://vignette.wikia.nocookie.net/brawlstars/images/5/52/Brock1-pfp.png/revision/latest?cb=20220428153402",
+                    "profileIcon2": "https://vignette.wikia.nocookie.net/brawlstars/images/b/bb/Brock2-pfp.png/revision/latest?cb=20231213185103",
+                    "profileIcon3": "https://vignette.wikia.nocookie.net/brawlstars/images/d/d2/Zeus_Brock-pfp.png/revision/latest?cb=20230427110137",
+                    "profileIcon4": "https://vignette.wikia.nocookie.net/brawlstars/images/4/42/Hot_Rod_Brock-pfp.png/revision/latest?cb=20231025132918",
+                    "profileIcon5": "https://vignette.wikia.nocookie.net/brawlstars/images/0/07/Rocket_Brown-pfp.png/revision/latest?cb=20240228102409"
+                }
+            ]
+        },
+        {
+            "id": "16000002",
+            "name": "Bull",
+            "masterTitle": "Bulldozer!",
+            "imageURL": "https://vignette.wikia.nocookie.net/brawlstars/images/7/7f/Bull1-pfp.png/revision/latest?cb=20220428153311",
+            "rarity": "Rare",
+            "class": "Tank",
+            "description": "Bull isn't as carefree as he was in his youth, but just because his rowdy days are behind him doesn't mean he won't still crush someone who's asking for it.",
+            "speed": "770",
+            "speedHypercharge": "962",
+            "voiceActor": "Bill Russell",
+            "attackName": "Double-Barrel",
+            "attackDescription": "Bull's double-barreled shotgun deals heavy damage. It has very short range, so Bull likes to get up close and personal.",
+            "superName": "Bulldozer",
+            "superDescription": "Bull puts his head down and bulldozes through opponents and obstacles. He's always been headstrong!",
+            "health": [
+                {
+                    "healthLevel1": "5000",
+                    "healthLevel2": "5500",
+                    "healthLevel3": "6000",
+                    "healthLevel4": "6500",
+                    "healthLevel5": "7000",
+                    "healthLevel6": "7500",
+                    "healthLevel7": "8000",
+                    "healthLevel8": "8500",
+                    "healthLevel9": "9000",
+                    "healthLevel10": "9500",
+                    "healthLevel11": "10000"
+                }
+            ],
+            "attack": [
+                {
+                    "range": 5.33,
+                    "reload": "1.6 seconds",
+                    "projectilesPerAttack": 5,
+                    "superChargePerHit": "11%",
+                    "attackSpread": "45°",
+                    "projectileSpeed": 2853,
+                    "attackLevel1": "440",
+                    "attackLevel2": "484",
+                    "attackLevel3": "528",
+                    "attackLevel4": "572",
+                    "attackLevel5": "616",
+                    "attackLevel6": "660",
+                    "attackLevel7": "704",
+                    "attackLevel8": "748",
+                    "attackLevel9": "792",
+                    "attackLevel10": "836",
+                    "attackLevel11": "880"
+                }
+            ],
+            "super": [
+                {
+                    "range": 11,
+                    "superChargePerHit": "36%",
+                    "superLevel1": "960",
+                    "superLevel2": "1056",
+                    "superLevel3": "1152",
+                    "superLevel4": "1248",
+                    "superLevel5": "1344",
+                    "superLevel6": "1440",
+                    "superLevel7": "1536",
+                    "superLevel8": "1632",
+                    "superLevel9": "1728",
+                    "superLevel10": "1824",
+                    "superLevel11": "1920"
+                }
+            ],
+            "hypercharge": [
+                {
+                    "hyperchargeName": "Jaws of Steel",
+                    "hyperchargeDescription": "Bulldozer reduces damage taken by 80%.",
+                    "hyperchargeMultiplier": "35%",
+                    "speed": "+25%",
+                    "damage": "+5%",
+                    "shield": "+25%"
+                }
+            ],
+            "gadgets": [
+                {
+                    "gadget1Name": "T-Bone Injector",
+                    "gadget1Description": "Bull instantly rejuvenates himself for 2000 health.",
+                    "gadget1URL": "https://cdn-fankit.brawlify.com/bull_gadget_01.png",
+                    "gadget2Name": "Stomper",
+                    "gadget2Description": "Bull can interrupt his Super charge and slow all nearby opponents with a massive stomp for 1.5 seconds.",
+                    "gadget2URL": "https://cdn-fankit.brawlify.com/bull_gadget_02.png"
+                }
+            ],
+            "starPowers": [
+                {
+                    "starPowers1Name": "Berserker",
+                    "starPowers1Description": "When Bull falls below 60% health, his reload speed doubles!",
+                    "starPowers1URL": "https://cdn-fankit.brawlify.com/bull_starpower_01.png",
+                    "starPowers2Name": "Tough Guy",
+                    "starPowers2Description": "When Bull falls below 40% health, he gains a shield that reduces all damage he takes by 30%.",
+                    "starPowers2URL": "https://cdn-fankit.brawlify.com/bull_starpower_02.png"
+                }
+            ],
+            "skins": [
+                {
+                    "skinDefault": [
+                        {
+                            "skinDefaultURL": "https://vignette.wikia.nocookie.net/brawlstars/images/b/b7/Bull_Skin-Default.png/revision/latest?cb=20230907104019",
+                            "pinsDefault": [
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/5/5c/Bull_Pin-Neutral.png/revision/latest?cb=20210920034919",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/a/ab/Bull_Pin-Happy.png/revision/latest?cb=20210920035013",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/9/90/Bull_Pin-Sad.png/revision/latest?cb=20210920035046",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/0/08/Bull_Pin-Angry.png/revision/latest?cb=20210920035116",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/4/47/Bull_Pin-GG.png/revision/latest?cb=20210920035156",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/c/c1/Bull_Pin-Clap.png/revision/latest?cb=20210621183151",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/2/21/Bull_Pin-Thanks.png/revision/latest?cb=20210920035351",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/1/13/Bull_Pin-Phew.png/revision/latest?cb=20210920035451",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/4/49/Bull_Pin-Special.png/revision/latest?cb=20221028070537",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/7/74/Bull_Pin-Facepalm.png/revision/latest?cb=20230304131510",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/9/9a/Bull_Pin-Hypercharge.png/revision/latest?cb=20230907100917"
+                            ]
+                        }
+                    ],
+                    "skin1": [
+                        {
+                            "skinName": "Barbarian King Bull",
+                            "skinCampaign": "Clash Stories",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/f/f6/Bull_Skin-Barbarian_King.png/revision/latest/scale-to-width-down/1000?cb=20200929153011"
+                        }
+                    ],
+                    "skin2": [
+                        {
+                            "skinName": "Linebacker Bull",
+                            "skinCampaign": "Super Brawl",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/3/34/Bull_Skin-Linebacker.png/revision/latest?cb=20220529034633"
+                        }
+                    ],
+                    "skin3": [
+                        {
+                            "skinName": "Touchdown Bull",
+                            "skinCampaign": "Super Brawl",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/3/31/Bull_Skin-Touchdown.png/revision/latest?cb=20220106005325"
+                        }
+                    ],
+                    "skin4": [
+                        {
+                            "skinName": "Viking Bull",
+                            "skinCampaign": "Northern Saga",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/9/90/Bull_Skin-Viking.png/revision/latest/scale-to-width-down/1000?cb=20210913082518"
+                        }
+                    ],
+                    "skin5": [
+                        {
+                            "skinName": "Space Ox Bull",
+                            "skinCampaign": "Lunar Brawl",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/b/b5/Bull_Skin-Space_Ox.png/revision/latest/scale-to-width-down/1000?cb=20210129124334"
+                        }
+                    ],
+                    "skin6": [
+                        {
+                            "skinName": "Lion Bull",
+                            "skinCampaign": "Club Series",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/2/28/Bull_Skin-Lion.png/revision/latest/scale-to-width-down/1000?cb=20220303090603"
+                        }
+                    ],
+                    "skin7": [
+                        {
+                            "skinName": "Bull Mang",
+                            "skinCampaign": "BT21",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/5/5b/Bull_Skin-Bull_Mang.png/revision/latest?cb=20220730052227",
+                            "pins": "https://vignette.wikia.nocookie.net/brawlstars/images/6/63/Bull_Bull_Mang_Pin-Neutral.png/revision/latest?cb=20220629084713"
+                        }
+                    ],
+                    "skin8": [
+                        {
+                            "skinName": "Alleycat Bull",
+                            "skinCampaign": "License to Brawl",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/6/62/Bull_Skin-Alleycat.png/revision/latest?cb=20230311120308",
+                            "pins": "https://vignette.wikia.nocookie.net/brawlstars/images/4/44/Bull_Alleycat_Pin-Neutral.png/revision/latest?cb=20230304214012"
+                        }
+                    ],
+                    "skin9": [
+                        {
+                            "skinName": "True Silver Bull",
+                            "skinCampaign": "True Silver",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/6/67/Bull_Skin-True_Silver.png/revision/latest?cb=20240301212217"
+                        }
+                    ],
+                    "skin10": [
+                        {
+                            "skinName": "True Gold Bull",
+                            "skinCampaign": "True Gold",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/1/1e/Bull_Skin-True_Gold.png/revision/latest?cb=20240301212309"
+                        }
+                    ],
+                    "skin11": [
+                        {
+                            "skinName": "B-800",
+                            "skinCampaign": "Brawl Pass",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/d/dc/Bull_Skin-B-800.png/revision/latest/scale-to-width-down/1000?cb=20221110015411"
+                        }
+                    ]
+                }
+            ],
+            "sprays": [
+                {
+                    "sprays1": "https://vignette.wikia.nocookie.net/brawlstars/images/e/e7/Bull-Spray.png/revision/latest?cb=20220513110648",
+                    "sprays2": "https://vignette.wikia.nocookie.net/brawlstars/images/f/fb/Bull_Hypercharge-Spray.png/revision/latest?cb=20230905141219",
+                    "sprays3": "https://vignette.wikia.nocookie.net/brawlstars/images/1/10/Bull_Mang-Spray.png/revision/latest?cb=20220629091903"
+                }
+            ],
+            "profileIcons": [
+                {
+                    "profileIcon1": "https://vignette.wikia.nocookie.net/brawlstars/images/7/7f/Bull1-pfp.png/revision/latest?cb=20220428153311",
+                    "profileIcon2": "https://vignette.wikia.nocookie.net/brawlstars/images/4/41/Bull2-pfp.png/revision/latest?cb=20231213184950",
+                    "profileIcon3": "https://vignette.wikia.nocookie.net/brawlstars/images/f/fb/Bull_Hypercharge-pfp.png/revision/latest?cb=20230905141219",
+                    "profileIcon4": "https://vignette.wikia.nocookie.net/brawlstars/images/9/95/Bull_Mang-pfp.png/revision/latest?cb=20220729101736"
+                }
+            ]
+        },
+        {
+            "id": "16000001",
+            "name": "Colt",
+            "masterTitle": "The Pretty",
+            "imageURL": "https://vignette.wikia.nocookie.net/brawlstars/images/6/67/Colt1-pfp.png/revision/latest?cb=20230930081549",
+            "rarity": "Rare",
+            "class": "Damage Dealer",
+            "description": "Colt is the star attraction at Starr Park! His good looks, charisma and gun twirling tricks win over any audience, except maybe Shelly.",
+            "speed": "720",
+            "speedHypercharge": "936",
+            "voiceActor": "Billy Kametz",
+            "attackName": "Six-Shooters",
+            "attackDescription": "Colt shoots six straight long-range shots out of his revolvers.",
+            "superName": "Bullet Storm",
+            "superDescription": "Colt rattles off a massive burst of bullets that shoot extra far and destroy cover.",
+            "health": [
+                {
+                    "healthLevel1": "2800",
+                    "healthLevel2": "3080",
+                    "healthLevel3": "3360",
+                    "healthLevel4": "3640",
+                    "healthLevel5": "3920",
+                    "healthLevel6": "4200",
+                    "healthLevel7": "4480",
+                    "healthLevel8": "4760",
+                    "healthLevel9": "5040",
+                    "healthLevel10": "5320",
+                    "healthLevel11": "5600"
+                }
+            ],
+            "attack": [
+                {
+                    "range": 9,
+                    "reload": "1.4 seconds",
+                    "projectilesPerAttack": 6,
+                    "superChargePerHit": "8.37%",
+                    "attackWidth": 0.33, 
+                    "projectileSpeed": 4000,
+                    "attackLevel1": "360",
+                    "attackLevel2": "396",
+                    "attackLevel3": "432",
+                    "attackLevel4": "468",
+                    "attackLevel5": "504",
+                    "attackLevel6": "540",
+                    "attackLevel7": "576",
+                    "attackLevel8": "612",
+                    "attackLevel9": "648",
+                    "attackLevel10": "684",
+                    "attackLevel11": "720"
+                }
+            ],
+            "super": [
+                {
+                    "range": 11,
+                    "projectilesPerSuper": 12,
+                    "superChargePerHit": "6.96%",
+                    "superWidth": 0.67,
+                    "projectileSpeed": 4891,
+                    "superLevel1": "320",
+                    "superLevel2": "352",
+                    "superLevel3": "384",
+                    "superLevel4": "416",
+                    "superLevel5": "448",
+                    "superLevel6": "480",
+                    "superLevel7": "512",
+                    "superLevel8": "544",
+                    "superLevel9": "576",
+                    "superLevel10": "608",
+                    "superLevel11": "640"
+                }
+            ],
+            "hypercharge": [
+                {
+                    "hyperchargeName": "Dual Wielding",
+                    "hyperchargeDescription": "Bullet Storm is 120% wider.",
+                    "hyperchargeMultiplier": "35%",
+                    "speed": "+26%",
+                    "damage": "+25%",
+                    "shield": "+5%"
+                }
+            ],
+            "gadgets": [
+                {
+                    "gadget1Name": "Speedloader",
+                    "gadget1Description": "Colt instantly reloads 2 ammo.",
+                    "gadget1URL": "https://cdn-fankit.brawlify.com/colt_gadget_01.png",
+                    "gadget2Name": "Silver Bullet",
+                    "gadget2Description": "Colt's next attack is a powerful shot that deals as much damage as 2 of his regular bullets, while going through obstacles and opponents alike.",
+                    "gadget2URL": "https://cdn-fankit.brawlify.com/colt_gadget_02.png"
+                }
+            ],
+            "starPowers": [
+                {
+                    "starPowers1Name": "Slick Boots",
+                    "starPowers1Description": "Colt's movement speed is increased by 13%.",
+                    "starPowers1URL": "https://cdn-fankit.brawlify.com/colt_starpower_01.png",
+                    "starPowers2Name": "Magnum Special",
+                    "starPowers2Description": "Colt's attack range and bullet speed are increased by 11%.",
+                    "starPowers2URL": "https://cdn-fankit.brawlify.com/colt_starpower_02.png"
+                }
+            ],
+            "skins": [
+                {
+                    "skinDefault": [
+                        {
+                            "skinDefaultURL": "https://vignette.wikia.nocookie.net/brawlstars/images/8/8a/Colt_Skin-Default.png/revision/latest?cb=20231111120541",
+                            "pinsDefault": [
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/9/99/Colt_Pin-Neutral.png/revision/latest?cb=20210920034129",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/1/12/Colt_Pin-Happy.png/revision/latest?cb=20210920034334",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/7/7a/Colt_Pin-Sad.png/revision/latest?cb=20210920034408",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/d/d8/Colt_Pin-Angry.png/revision/latest?cb=20210920034447",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/4/47/Colt_Pin-GG.png/revision/latest?cb=20231213182016",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/6/66/Colt_Pin-Clap.png/revision/latest?cb=20210621182934",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/2/2c/Colt_Pin-Thanks.png/revision/latest?cb=20210920034526",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/e/ef/Colt_Pin-Phew.png/revision/latest?cb=20210920034601",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/f/fe/Colt_Pin-Special.png/revision/latest?cb=20210920034627",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/4/41/Colt_Pin-Facepalm.png/revision/latest?cb=20230304131437",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/4/41/Colt_Pin-Facepalm.png/revision/latest?cb=20230304131437"
+                            ]
+                        }
+                    ],
+                    "skin1": [
+                        {
+                            "skinName": "Rockstar Colt",
+                            "skinCampaign": "None",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/d/da/Colt_Skin-Rockstar.png/revision/latest/scale-to-width-down/1000?cb=20230706155056"
+                        }
+                    ],
+                    "skin2": [
+                        {
+                            "skinName": "Outlaw Colt",
+                            "skinCampaign": "Outlaws",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/1/12/Colt_Skin-Outlaw.png/revision/latest/scale-to-width-down/1000?cb=20210906094951"
+                        }
+                    ],
+                    "skin3": [
+                        {
+                            "skinName": "River Plate Colt",
+                            "skinCampaign": "Latin America Master League",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/7/7b/Colt_Skin-River_Plate.png/revision/latest?cb=20210813101636"
+                        }
+                    ],
+                    "skin4": [
+                        {
+                            "skinName": "Cerro Porteño Colt",
+                            "skinCampaign": "Latin America Master League",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/f/fe/Colt_Skin-Cerro_Porte%C3%B1o.png/revision/latest?cb=20210813101901"
+                        }
+                    ],
+                    "skin5": [
+                        {
+                            "skinName": "Atl. Nacional Colt",
+                            "skinCampaign": "Latin America Master League",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/2/22/Colt_Skin-Atl._Nacional.png/revision/latest/scale-to-width-down/1000?cb=20230706155213"
+                        }
+                    ],
+                    "skin6": [
+                        {
+                            "skinName": "Club America Colt",
+                            "skinCampaign": "Latin America Master League",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/6/6d/Colt_Skin-Club_America.png/revision/latest/scale-to-width-down/1000?cb=20230706155306"
+                        }
+                    ],
+                    "skin7": [
+                        {
+                            "skinName": "Handsome Colt",
+                            "skinCampaign": "None",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/f/fd/Colt_Skin-Handsome.png/revision/latest/scale-to-width-down/1000?cb=20230706155354",
+                            "pins": "https://vignette.wikia.nocookie.net/brawlstars/images/9/9f/Colt_Handsome_Pin-Neutral.png/revision/latest?cb=20230428124558"
+                        }
+                    ],
+                    "skin8": [
+                        {
+                            "skinName": "Royal Agent Colt",
+                            "skinCampaign": "Lunar Brawl",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/c/c6/Colt_Skin-Royal_Agent.png/revision/latest/scale-to-width-down/1000?cb=20230706155501"
+                        }
+                    ],
+                    "skin9": [
+                        {
+                            "skinName": "Corsair Colt",
+                            "skinCampaign": "Tales of the Sea",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/c/cf/Colt_Skin-Corsair.png/revision/latest/scale-to-width-down/1000?cb=20230706155547"
+                        }
+                    ],
+                    "skin10": [
+                        {
+                            "skinName": "Bananas Colt",
+                            "skinCampaign": "Rumble Jungle Heroes",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/f/fe/Colt_Skin-Bananas.png/revision/latest/scale-to-width-down/1000?cb=20230625093047",
+                            "pins": "https://vignette.wikia.nocookie.net/brawlstars/images/a/ac/Colt_Bananas_Pin-Neutral.png/revision/latest?cb=20230428132129"
+                        }
+                    ],
+                    "skin11": [
+                        {
+                            "skinName": "Dark Angel Colt",
+                            "skinCampaign": "Supercell Make",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/c/c8/Colt_Skin-Dark_Angel.png/revision/latest?cb=20231220095448",
+                            "pins": "https://vignette.wikia.nocookie.net/brawlstars/images/a/a9/Colt_Dark_Angel_Pin-Special.png/revision/latest?cb=20231212131148"
+                        }
+                    ],
+                    "skin12": [
+                        {
+                            "skinName": "True Silver Colt",
+                            "skinCampaign": "True Silver",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/6/65/Colt_Skin-True_Silver.png/revision/latest?cb=20210812071807"
+                        }
+                    ],
+                    "skin13": [
+                        {
+                            "skinName": "True Gold Colt",
+                            "skinCampaign": "True Gold",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/1/14/Colt_Skin-True_Gold.png/revision/latest?cb=20210813103112"
+                        }
+                    ],
+                    "skin14": [
+                        {
+                            "skinName": "Challenger Colt",
+                            "skinCampaign": "Brawl Stars Championship",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/8/81/Colt_Skin-Challenger.png/revision/latest/scale-to-width-down/1000?cb=20201105135247"
+                        }
+                    ],
+                    "skin15": [
+                        {
+                            "skinName": "Gunslinger Colt",
+                            "skinCampaign": "Brawl Pass",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/2/2b/Colt_Skin-Gunslinger.png/revision/latest/scale-to-width-down/1000?cb=20210813103552"
+                        }
+                    ],
+                    "skin16": [
+                        {
+                            "skinName": "Sharktooth Colt",
+                            "skinCampaign": "Brawl Pass",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/e/ee/Colt_Skin-Sharktooth.png/revision/latest/scale-to-width-down/1000?cb=20230706155702",
+                            "pins": "https://vignette.wikia.nocookie.net/brawlstars/images/9/9d/Colt_Sharktooth_Pin-Neutral.png/revision/latest?cb=20221225150318"
+                        }
+                    ]
+                }
+            ],
+            "sprays": [
+                {
+                    "sprays1": "https://vignette.wikia.nocookie.net/brawlstars/images/9/96/Colt-Spray.png/revision/latest?cb=20220427051716",
+                    "sprays2": "https://vignette.wikia.nocookie.net/brawlstars/images/8/8a/Colt_Hypercharge-Spray.png/revision/latest?cb=20230905141222",
+                    "sprays3": "https://vignette.wikia.nocookie.net/brawlstars/images/d/db/Bananas_Colt-Spray.png/revision/latest?cb=20230427111150"
+                }
+            ],
+            "profileIcons": [
+                {
+                    "profileIcon1": "https://vignette.wikia.nocookie.net/brawlstars/images/6/67/Colt1-pfp.png/revision/latest?cb=20230930081549",
+                    "profileIcon2": "https://vignette.wikia.nocookie.net/brawlstars/images/9/96/Colt2-pfp.png/revision/latest?cb=20220429061902",
+                    "profileIcon3": "https://vignette.wikia.nocookie.net/brawlstars/images/a/a6/Colt_Hypercharge-pfp.png/revision/latest?cb=20230905141220",
+                    "profileIcon4": "https://vignette.wikia.nocookie.net/brawlstars/images/f/f0/Bananas_Colt-pfp.png/revision/latest?cb=20230427104959",
+                    "profileIcon5": "https://vignette.wikia.nocookie.net/brawlstars/images/0/0f/Dark_Angel_Colt-pfp.png/revision/latest?cb=20231212182838"
+                }
+            ]
+        },
+        {
+            "id": "16000000",
+            "name": "Shelly",
+            "masterTitle": "No time to explain!",
+            "imageURL": "https://vignette.wikia.nocookie.net/brawlstars/images/7/7b/Shelly1-pfp.png/revision/latest?cb=20230927172005",
+            "rarity": "Starting Brawler",
+            "class": "Damage Dealer",
+            "description": "Shelly's the perfect ranger: reliable, tough, and terrific with her shotgun. She never understood why Colt got to steal the limelight...",
+            "speed": 770,
+            "speedHypercharge": 963,
+            "voiceActor": "Sandra Espinoza",
+            "attackName": "Buckshot",
+            "attackDescription": "Shelly's boomstick fires a wide spread of pellets to a medium range. The more pellets hit, the greater the damage.",
+            "superName": "Super Shell",
+            "superDescription": "Shelly's Super Shell obliterates both cover and enemies. Any survivors get knocked back.",
+            "health": [
+                {
+                    "healthLevel1": "3700",
+                    "healthLevel2": "4070",
+                    "healthLevel3": "4440",
+                    "healthLevel4": "4810",
+                    "healthLevel5": "5180",
+                    "healthLevel6": "5550",
+                    "healthLevel7": "5920",
+                    "healthLevel8": "6290",
+                    "healthLevel9": "6660",
+                    "healthLevel10": "7030",
+                    "healthLevel11": "7400"
+                }
+            ],
+            "attack": [
+                {
+                    "range": 7.67,
+                    "reload": "1.5 seconds",
+                    "projectilesPerAttack": 5,
+                    "superChargePerHit": "10.05%",
+                    "attackSpread": "30°",
+                    "projectileSpeed": "3100",
+                    "attackLevel1": "300",
+                    "attackLevel2": "330",
+                    "attackLevel3": "360",
+                    "attackLevel4": "390",
+                    "attackLevel5": "420",
+                    "attackLevel6": "450",
+                    "attackLevel7": "480",
+                    "attackLevel8": "510",
+                    "attackLevel9": "540",
+                    "attackLevel10": "570",
+                    "attackLevel11": "600"
+                }
+            ],
+            "super": [
+                {
+                    "range": 7.67,
+                    "projectilesPerSuper": 9,
+                    "superChargePerHit": "4.838%",
+                    "superSpread": "50°",
+                    "projectileSpeed": "4130",
+                    "superLevel1": "320",
+                    "superLevel2": "352",
+                    "superLevel3": "384",
+                    "superLevel4": "416",
+                    "superLevel5": "448",
+                    "superLevel6": "480",
+                    "superLevel7": "512",
+                    "superLevel8": "544",
+                    "superLevel9": "576",
+                    "superLevel10": "608",
+                    "superLevel11": "640"
+                }
+            ],
+            "hypercharge": [
+                {
+                    "hyperchargeName": "Double Barrel",
+                    "hyperchargeDescription": "Super Shell is 33% larger.",
+                    "hyperchargeMultiplier": "30%",
+                    "speed": "+25%",
+                    "damage": "+5%",
+                    "shield": "+25%"
+                }
+            ],
+            "gadgets": [
+                {
+                    "gadget1Name": "Fast Forward",
+                    "gadget1Description": "Shelly dashes ahead, skipping a few unnecessary steps!",
+                    "gadget1URL": "https://cdn-fankit.brawlify.com/shelly_gadget_01.png",
+                    "gadget2Name": "Clay Pigeons",
+                    "gadget2Description": "On activation, for the next 5 seconds Shelly's main attacks focuses the fire to a smaller area with an increased range.",
+                    "gadget2URL": "https://cdn-fankit.brawlify.com/shelly_gadget_02.png"
+                }
+            ],
+            "starPowers": [
+                {
+                    "starPowers1Name": "Shell Shock",
+                    "starPowers1Description": "Shelly's Super shells slow down enemies for 2 seconds!",
+                    "starPowers1URL": "https://cdn-fankit.brawlify.com/shelly_starpower_01.png",
+                    "starPowers2Name": "Band-Aid",
+                    "starPowers2Description": "When Shelly falls below 40% health, she instantly heals for 2220 health. Band-Aid recharges in 15 seconds.",
+                    "starPowers2URL": "https://cdn-fankit.brawlify.com/shelly_starpower_02.png"
+                }
+            ],
+            "skins": [
+                {
+                    "skinDefault": [
+                        {
+                            "skinDefaultURL": "https://vignette.wikia.nocookie.net/brawlstars/images/5/5e/Shelly_Skin-Default.png/revision/latest?cb=20240301164742",
+                            "pinsDefault": [
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/8/80/Shelly_Pin-Neutral.png/revision/latest?cb=20210111215351",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/3/33/Shelly_Pin-Happy.png/revision/latest?cb=20210111215515",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/1/1a/Shelly_Pin-Sad.png/revision/latest?cb=20210124220909",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/4/49/Shelly_Pin-Angry.png/revision/latest?cb=20210111215754",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/d/d4/Shelly_Pin-GG.png/revision/latest?cb=20210111215846",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/2/27/Shelly_Pin-Clap.png/revision/latest?cb=20210621173251",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/3/38/Shelly_Pin-Thanks.png/revision/latest?cb=20210111215939",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/8/8b/Shelly_Pin-Phew.png/revision/latest?cb=20210111220018",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/d/d8/Shelly_Pin-Special.png/revision/latest?cb=20220629084513",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/3/31/Shelly_Pin-Facepalm.png/revision/latest?cb=20230304131336",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/d/de/Shelly_Pin-Hypercharge.png/revision/latest?cb=20230907100827"
+                            ]
+                        }
+                    ],
+                    "skin1": [
+                        {
+                            "skinName": "Star Shelly",
+                            "skinCampaign": "Brawl Stars Pioneer",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/d/de/Shelly_Skin-Star.png/revision/latest?cb=20201107182155",
+                            "pins": "https://vignette.wikia.nocookie.net/brawlstars/images/e/ea/Shelly_Star_Pin-Thanks.png/revision/latest?cb=20230916010305"
+                        }
+                    ],
+                    "skin2": [
+                        {
+                            "skinName": "Classic Shelly",
+                            "skinCampaign": "Anniversary",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/d/db/Shelly_Skin-Classic.png/revision/latest?cb=20230202195056"
+                        }
+                    ],
+                    "skin3": [
+                        {
+                            "skinName": "Bandita Shelly",
+                            "skinCampaign": "Outlaws",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/5/54/Shelly_Skin-Bandita.png/revision/latest?cb=20201107182228"
+                        }
+                    ],
+                    "skin4": [
+                        {
+                            "skinName": "Boca Juniors Shelly",
+                            "skinCampaign": "Latin America Master League",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/6/62/Shelly_Skin-Boca_Juniors.png/revision/latest?cb=20210813084429"
+                        }
+                    ],
+                    "skin5": [
+                        {
+                            "skinName": "America Shelly",
+                            "skinCampaign": "Latin America Master League",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/d/d1/Shelly_Skin-America.png/revision/latest/scale-to-width-down/1000?cb=20210906083352"
+                        }
+                    ],
+                    "skin6": [
+                        {
+                            "skinName": "U De Chile Shelly",
+                            "skinCampaign": "Latin America Master League",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/3/3e/Shelly_Skin-U_De_Chile.png/revision/latest?cb=20231031130423"
+                        }
+                    ],
+                    "skin7": [
+                        {
+                            "skinName": "PSG Shelly",
+                            "skinCampaign": "PSG",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/f/ff/Shelly_Skin-PSG.png/revision/latest?cb=20210811190346"
+                        }
+                    ],
+                    "skin8": [
+                        {
+                            "skinName": "Witch Shelly",
+                            "skinCampaign": "Brawl-o-ween",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/d/dc/Shelly_Skin-Witch.png/revision/latest?cb=20201105221947",
+                            "pins": "https://vignette.wikia.nocookie.net/brawlstars/images/5/5c/Shelly_Witch_Pin-Neutral.png/revision/latest?cb=20211030222510"
+                        }
+                    ],
+                    "skin9": [
+                        {
+                            "skinName": "Hoot Hoot Shelly",
+                            "skinCampaign": "Brawl-o-ween",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/f/fa/Shelly_Skin-Hoot_Hoot.png/revision/latest/scale-to-width-down/1000?cb=20231030180338",
+                            "pins": "https://vignette.wikia.nocookie.net/brawlstars/images/d/da/Shelly_Hoot_Hoot_Pin-Special.png/revision/latest?cb=20231023132728"
+                        }
+                    ],
+                    "skin10": [
+                        {
+                            "skinName": "True Silver Shelly",
+                            "skinCampaign": "True Silver",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/3/35/Shelly_Skin-True_Silver.png/revision/latest?cb=20201106143243"
+                        }
+                    ],
+                    "skin11": [
+                        {
+                            "skinName": "True Gold Shelly",
+                            "skinCampaign": "True Gold",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/b/b5/Shelly_Skin-True_Gold.png/revision/latest?cb=20201106143409"
+                        }
+                    ],
+                    "skin12": [
+                        {
+                            "skinName": "Princess Shelly",
+                            "skinCampaign": "Brawl Pass",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/0/08/Shelly_Skin-Princess.png/revision/latest?cb=20230126115623"
+                        }
+                    ],
+                    "skin13": [
+                        {
+                            "skinName": "Shelly Dancer",
+                            "skinCampaign": "Brawl Pass",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/3/3a/Shelly_Skin-Shelly_Dancer.png/revision/latest/scale-to-width-down/1000?cb=20240229131019",
+                            "pins": "https://vignette.wikia.nocookie.net/brawlstars/images/2/2e/Shelly_Shelly_Dancer_Pin-Special.png/revision/latest?cb=20240226115556"
+                        }
+                    ],
+                    "skin14": [
+                        {
+                            "skinName": "Shelly Dancer Iris",
+                            "skinCampaign": "Brawl Pass",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/3/31/Shelly_Skin-Shelly_Dancer_Iris.png/revision/latest/scale-to-width-down/1000?cb=20240229131044",
+                            "pins": "https://vignette.wikia.nocookie.net/brawlstars/images/0/0b/Shelly_Shelly_Dancer_Iris_Pin-Special.png/revision/latest?cb=20240226115556"
+                        }
+                    ],
+                    "skin15": [
+                        {
+                            "skinName": "Shelly Dancer Dahlia",
+                            "skinCampaign": "Brawl Pass",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/6/63/Shelly_Skin-Shelly_Dancer_Dahlia.png/revision/latest/scale-to-width-down/1000?cb=20240229131106",
+                            "pins": "https://vignette.wikia.nocookie.net/brawlstars/images/c/c9/Shelly_Shelly_Dancer_Dahlia_Pin-Special.png/revision/latest?cb=20240226115556"
+                        }
+                    ]
+                }
+            ],
+            "sprays": [
+                {
+                    "sprays1": "https://vignette.wikia.nocookie.net/brawlstars/images/b/b0/Shelly-Spray.png/revision/latest?cb=20220427051707",
+                    "sprays2": "https://vignette.wikia.nocookie.net/brawlstars/images/c/c3/Shelly_Hypercharge-Spray.png/revision/latest?cb=20230905141226",
+                    "sprays3": "https://vignette.wikia.nocookie.net/brawlstars/images/d/d0/Hoot_Hoot_Shelly-Spray.png/revision/latest?cb=20231025151711"
+                }
+            ],
+            "profileIcons": [
+                {
+                    "profileIcon1": "https://vignette.wikia.nocookie.net/brawlstars/images/7/7b/Shelly1-pfp.png/revision/latest?cb=20230927172005",
+                    "profileIcon2": "https://vignette.wikia.nocookie.net/brawlstars/images/b/b2/Shelly2-pfp.png/revision/latest?cb=20220429061639",
+                    "profileIcon3": "https://vignette.wikia.nocookie.net/brawlstars/images/e/ec/Shelly_Hypercharge-pfp.png/revision/latest?cb=20230905141225",
+                    "profileIcon4": "https://vignette.wikia.nocookie.net/brawlstars/images/e/eb/Hoot_Hoot_Shelly-pfp.png/revision/latest?cb=20231025132854",
+                    "profileIcon5": "https://vignette.wikia.nocookie.net/brawlstars/images/6/67/Shelly_Dancer-pfp.png/revision/latest?cb=20240228102300"
+                }
+            ]
+        }
+    ]
+}
