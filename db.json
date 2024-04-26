@@ -2,7 +2,7 @@
     "brawler": [
         {
             "id": "16000013",
-            "name": "Mec",
+            "name": "",
             "masterTitle": "",
             "imageURL": "",
             "rarity": "",
@@ -288,66 +288,89 @@
                     "superChargePerHit": "7.12%",
                     "attackSpread": "22.5°",
                     "projectileSpeed": 3261,
-                    "attackLevel1": "",
-                    "attackLevel2": "",
-                    "attackLevel3": "",
-                    "attackLevel4": "",
-                    "attackLevel5": "",
-                    "attackLevel6": "",
-                    "attackLevel7": "",
-                    "attackLevel8": "",
-                    "attackLevel9": "",
-                    "attackLevel10": "",
-                    "attackLevel11": ""
+                    "attackLevel1": "320",
+                    "attackLevel2": "352",
+                    "attackLevel3": "384",
+                    "attackLevel4": "416",
+                    "attackLevel5": "448",
+                    "attackLevel6": "480",
+                    "attackLevel7": "512",
+                    "attackLevel8": "544",
+                    "attackLevel9": "576",
+                    "attackLevel10": "608",
+                    "attackLevel11": "640",
+                    "DamagePerSecLevel1": "80",
+                    "DamagePerSecLevel2": "88",
+                    "DamagePerSecLevel3": "96",
+                    "DamagePerSecLevel4": "104",
+                    "DamagePerSecLevel5": "112",
+                    "DamagePerSecLevel6": "120",
+                    "DamagePerSecLevel7": "128",
+                    "DamagePerSecLevel8": "136",
+                    "DamagePerSecLevel9": "144",
+                    "DamagePerSecLevel10": "152",
+                    "DamagePerSecLevel11": "160"
+
                 }
             ],
             "super": [
                 {
-                    "range": "",
-                    "projectilesPerSuper": "",
-                    "superChargePerHit": "",
-                    "superSpread": "",
-                    "projectileSpeed": "",
-                    "superLevel1": "",
-                    "superLevel2": "",
-                    "superLevel3": "",
-                    "superLevel4": "",
-                    "superLevel5": "",
-                    "superLevel6": "",
-                    "superLevel7": "",
-                    "superLevel8": "",
-                    "superLevel9": "",
-                    "superLevel10": "",
-                    "superLevel11": ""
+                    "range": 8.67,
+                    "projectilesPerSuper": 28,
+                    "superChargePerHit": "6%",
+                    "superWidth": 0.33,
+                    "projectileSpeed": 3261,
+                    "superLevel1": "320",
+                    "superLevel2": "352",
+                    "superLevel3": "384",
+                    "superLevel4": "416",
+                    "superLevel5": "448",
+                    "superLevel6": "480",
+                    "superLevel7": "512",
+                    "superLevel8": "544",
+                    "superLevel9": "576",
+                    "superLevel10": "608",
+                    "superLevel11": "640",
+                    "DamagePerSecLevel1": "80",
+                    "DamagePerSecLevel2": "88",
+                    "DamagePerSecLevel3": "96",
+                    "DamagePerSecLevel4": "104",
+                    "DamagePerSecLevel5": "112",
+                    "DamagePerSecLevel6": "120",
+                    "DamagePerSecLevel7": "128",
+                    "DamagePerSecLevel8": "136",
+                    "DamagePerSecLevel9": "144",
+                    "DamagePerSecLevel10": "152",
+                    "DamagePerSecLevel11": "160"
                 }
             ],
             "hypercharge": [
                 {
-                    "hyperchargeName": "",
-                    "hyperchargeDescription": "",
-                    "hyperchargeMultiplier": "",
-                    "speed": "",
-                    "damage": "",
-                    "shield": ""
+                    "hyperchargeName": "Utility Knives",
+                    "hyperchargeDescription": "Crow's knives are piercing and are returning like a boomerang.",
+                    "hyperchargeMultiplier": "60%",
+                    "speed": "+24%",
+                    "damage": "+25%",
+                    "shield": "+5%"
                 }
             ],
             "gadgets": [
                 {
-                    "gadget1Name": "",
-                    "gadget1Description": "",
+                    "gadget1Name": "Defense Booster",
+                    "gadget1Description": "Crow gets a shield for 40% of incoming damage for 3.0 seconds.",
                     "gadget1URL": "https://cdn-fankit.brawlify.com/crow_gadget_01.png",
-                    "gadget2Name": "",
-                    "gadget2Description": "",
+                    "gadget2Name": "Slowing Toxin",
+                    "gadget2Description": "All currently poisoned enemies are slowed for 2 seconds.",
                     "gadget2URL": "https://cdn-fankit.brawlify.com/crow_gadget_02.png"
                 }
             ],
             "starPowers": [
                 {
-                    "starPowers1Name": "",
-                    "starPowers1Description": "",
+                    "starPowers1Name": "Extra Toxic",
+                    "starPowers1Description": "Crow's poison saps the strength of enemies, who deal 15% less damage while poisoned.",
                     "starPowers1URL": "https://cdn-fankit.brawlify.com/crow_starpower_01.png",
-                    "starPowers2Name": "",
-                    "starPowers2Description": "",
+                    "starPowers2Name": "Carrion Crow",
+                    "starPowers2Description": "Crow deals +256 damage with his attack and Super to targets with 50% or less health.",
                     "starPowers2URL": "https://cdn-fankit.brawlify.com/crow_starpower_02.png"
                 }
             ],
@@ -355,35 +378,54 @@
                 {
                     "skinDefault": [
                         {
-                            "skinDefaultURL": "",
+                            "skinDefaultURL": "https://vignette.wikia.nocookie.net/brawlstars/images/a/a2/Crow_Skin-Default.png/revision/latest?cb=20201107182328",
                             "pinsDefault": [
-                                "",
-                                ""
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/1/10/Crow_Pin-Neutral.png/revision/latest?cb=20200917163906",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/d/db/Crow_Pin-Happy.png/revision/latest?cb=20210921035626",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/f/f5/Crow_Pin-Sad.png/revision/latest?cb=20210921035642",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/e/e6/Crow_Pin-Angry.png/revision/latest?cb=20230814124702",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/2/2e/Crow_Pin-GG.png/revision/latest?cb=20210921035713",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/f/fe/Crow_Pin-Clap.png/revision/latest?cb=20210621182856",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/8/87/Crow_Pin-Thanks.png/revision/latest?cb=20210921035731",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/a/a5/Crow_Pin-Phew.png/revision/latest?cb=20210921035745",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/f/f6/Crow_Pin-Special.png/revision/latest?cb=20221028070820",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/d/d8/Crow_Pin-Facepalm.png/revision/latest?cb=20230304133652",
+                                "https://vignette.wikia.nocookie.net/brawlstars/images/f/f8/Crow_Pin-Hypercharge.png/revision/latest?cb=20231211141802"
                             ]
                         }
                     ],
                     "skin1": [
                         {
-                            "skinName": "",
-                            "skinCampaign": "",
-                            "skinURL": "",
-                            "pins": ""
+                            "skinName": "Mecha Crow",
+                            "skinCampaign": "Mecha Squad",
+                            "skinURL": "https://static.wikia.nocookie.net/brawlstars/images/a/a2/Crow_Skin-Mecha.png/revision/latest?cb=20201107153309",
+                            "pins": [
+                                "https://static.wikia.nocookie.net/brawlstars/images/8/83/Crow_Mecha_Pin-Neutral.png/revision/latest?cb=20220905180128",
+                                "https://static.wikia.nocookie.net/brawlstars/images/d/d3/Crow_Mecha_Pin-Happy.png/revision/latest?cb=20240226122558",
+                                "https://static.wikia.nocookie.net/brawlstars/images/c/cf/Crow_Mecha_Pin-Sad.png/revision/latest?cb=20240226122631",
+                                "https://static.wikia.nocookie.net/brawlstars/images/6/68/Crow_Mecha_Pin-Angry.png/revision/latest?cb=20240226115554",
+                                "https://static.wikia.nocookie.net/brawlstars/images/4/4d/Crow_Mecha_Pin-GG.png/revision/latest?cb=20240226123042",
+                                "https://static.wikia.nocookie.net/brawlstars/images/7/7f/Crow_Mecha_Pin-Clap.png/revision/latest?cb=20240226115554",
+                                "https://static.wikia.nocookie.net/brawlstars/images/4/47/Crow_Mecha_Pin-Thanks.png/revision/latest?cb=20240226115553",
+                                "https://static.wikia.nocookie.net/brawlstars/images/8/84/Crow_Mecha_Pin-Phew.png/revision/latest?cb=20240226123031",
+                                "https://static.wikia.nocookie.net/brawlstars/images/9/90/Crow_Mecha_Pin-Special.png/revision/latest?cb=20240226115554"
+                            ]
                         }
                     ],
                     "skin2": [
                         {
-                            "skinName": "",
-                            "skinCampaign": "",
-                            "skinURL": "",
-                            "pins": ""
+                            "skinName": "Night Mecha Crow",
+                            "skinCampaign": "Mecha Squad",
+                            "skinURL": "https://static.wikia.nocookie.net/brawlstars/images/0/0c/Crow_Skin-Night_Mecha.png/revision/latest?cb=20201107153452",
+                            "pins": "https://static.wikia.nocookie.net/brawlstars/images/7/70/Crow_Night_Mecha_Pin-Neutral.png/revision/latest?cb=20220905180128"
                         }
                     ],
                     "skin3": [
                         {
-                            "skinName": "",
-                            "skinCampaign": "",
-                            "skinURL": "",
-                            "pins": ""
+                            "skinName": "Gold Mecha Crow",
+                            "skinCampaign": "Mecha Squad",
+                            "skinURL": "https://static.wikia.nocookie.net/brawlstars/images/5/58/Crow_Skin-Gold_Mecha.png/revision/latest?cb=20201107153551",
+                            "pins": "https://static.wikia.nocookie.net/brawlstars/images/7/74/Crow_Gold_Mecha_Pin-Neutral.png/revision/latest?cb=20220905180127"
                         }
                     ],
                     "skin4": [
@@ -1172,7 +1214,7 @@
                         {
                             "skinName": "Tengu Mike",
                             "skinCampaign": "The Ayakashi Clan",
-                            "skinURL": "https://static.wikia.nocookie.net/brawlstars/images/a/a3/Dynamike_Skin-Tengu_Mike.png/revision/latest/scale-to-width-down/1000?cb=20230302044548",
+                            "skinURL": "https://vignette.wikia.nocookie.net/brawlstars/images/a/a3/Dynamike_Skin-Tengu_Mike.png/revision/latest/scale-to-width-down/1000?cb=20230302044548",
                             "pins": "https://vignette.wikia.nocookie.net/brawlstars/images/b/b2/Dynamike_Tengu_Mike_Pin-Neutral.png/revision/latest?cb=20230304214457"
                         }
                     ],
@@ -2347,27 +2389,27 @@
                     "attackWidth": 0.67,
                     "projectileSpeed": 2700,
                     "attackLevel1": "1160",
-                    "fireDamageLevel1": "348",
+                    "DamagePerSecLevel1": "348",
                     "attackLevel2": "1276",
-                    "fireDamageLevel2": "382",
+                    "DamagePerSecLevel2": "382",
                     "attackLevel3": "1392",
-                    "fireDamageLevel3": "416",
+                    "DamagePerSecLevel3": "416",
                     "attackLevel4": "1508",
-                    "fireDamageLevel4": "450",
+                    "DamagePerSecLevel4": "450",
                     "attackLevel5": "1624",
-                    "fireDamageLevel5": "484",
+                    "DamagePerSecLevel5": "484",
                     "attackLevel6": "1740",
-                    "fireDamageLevel6": "518",
+                    "DamagePerSecLevel6": "518",
                     "attackLevel7": "1856",
-                    "fireDamageLevel7": "552",
+                    "DamagePerSecLevel7": "552",
                     "attackLevel8": "1972",
-                    "fireDamageLevel8": "586",
+                    "DamagePerSecLevel8": "586",
                     "attackLevel9": "2088",
-                    "fireDamageLevel9": "620",
+                    "DamagePerSecLevel9": "620",
                     "attackLevel10": "2204",
-                    "fireDamageLevel10": "654",
+                    "DamagePerSecLevel10": "654",
                     "attackLevel11": "2320",
-                    "fireDamageLevel11": "688"
+                    "DamagePerSecLevel11": "688"
                 }
             ],
             "super": [
